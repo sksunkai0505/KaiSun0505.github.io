@@ -10,15 +10,18 @@ redirect_from:
 I am a Postdoctoral Fellow in the Department of Management Science and Statistics housed in the Alvarez College of Business at The University of Texas at San Antonio (UTSA). 
 I am also an Adjunct Assistant Professor in the Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
-I am actively on the job market for tenure-track faculty positions starting Fall 2024. 
+**I am on the job market for tenure-track faculty positions starting Fall 2024.** 
 
-My primary research interest centers around decision support for real-world problems in healthcare and service systems 
-(e.g., operating room management, intensive care units, and product lifecycle management systems) via 
-the development and application of
-(1) Data-driven optimization, 
-(2) Graph-based models and algorithms,
-(3) Multi-objective optimization,
-(4) Data analytics and machine learning tools.
+My primary research interests center around decision support for real-world problems in healthcare and service systems 
+via the development and application of\
+(i) Data-driven optimization,\
+(ii) Graph-based models and algorithms,\
+(iii) Multi-objective optimization,\
+(iv) Data analytics and machine learning tools.
+
+The examples of the applications includes:\
+(i) For healthcare systems: operating rooms, intensive care units, adaptive patient and clinician scheduling;\
+(ii) For product development and manufacturing: process planning and scheduling, product lifecycle management systems.
 
 I received Ph.D. and M.S. in mechanical and aerospace engineering from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
