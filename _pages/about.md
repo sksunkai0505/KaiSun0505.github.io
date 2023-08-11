@@ -7,10 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Fellow in the Department of Management Science and Statistics housed in the Alvarez College of Business at The University of Texas at San Antonio (UTSA). I am also an Adjunct Assistant Professor at The University of Texas Health Science Center at San Antonioor in the Management Science and Statistics department housed in the Alvarez College of Business at the University of Texas at San Antonio (UTSA). I am also a Core Faculty member of the new School of Data Science at UTSA. Previously, I was a faculty member in the Applied Statistics and Operations Research department at Bowling Green State University. In addition to my doctoral work at the School of Industrial Engineering at Purdue University, I conducted research as a Visiting Research Fellow in the Industrial Engineering and Management Sciences department at Northwestern University.
-I am an organizational health economist affiliated with the Baylor University Department of Economics. My research centers around workforce management and organizational performance. I’m specifically interested in the role interpersonal relationships play in maximizing performance. In my job market paper I study the effects of discontinuity in primary care on patient utilization and outcomes. I have a PhD in Managerial Science and Applied Economics from the University of Pennsylvania Wharton School of Business and Master’s degrees in health and business administration from Baylor.
+I am a Postdoctoral Fellow in the Department of Management Science and Statistics housed in the Alvarez College of Business at The University of Texas at San Antonio (UTSA). 
+I am also an Adjunct Assistant Professor in the Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am actively on the job market for tenure-track faculty positions starting Fall 2024. 
+
+My primary research interest centers around decision support for real-world problems in healthcare and service systems 
+(e.g., operating room management, intensive care units, and product lifecycle management systems) via 
+the development and application of
+(1) Data-driven optimization, 
+(2) Graph-based models and algorithms,
+(3) Multi-objective optimization,
+(4) Data analytics and machine learning tools.
+
+I received Ph.D. and M.S. in mechanical and aerospace engineering from Syracuse University in 2020 and 2015, respectively.
+I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
 A data-driven personal website
 ======
