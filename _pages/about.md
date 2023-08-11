@@ -14,10 +14,10 @@ I am also an Adjunct Assistant Professor in the Department of Anesthesiology at 
 
 My primary research interests center around decision support for real-world problems in healthcare and service systems 
 via the development and application of\
-(i) Data-driven optimization,\
-(ii) Graph-based models and algorithms,\
+(i)   Data-driven optimization,\
+(ii)  Graph-based models and algorithms,\
 (iii) Multi-objective optimization,\
-(iv) Data analytics and machine learning tools.
+(iv)  Data analytics and machine learning tools.
 
 The examples of the applications includes:\
 (i) For healthcare systems: operating rooms, intensive care units, adaptive patient and clinician scheduling;\
