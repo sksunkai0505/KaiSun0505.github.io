@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Greetings and welcome to my website! "
+title: "Kai Sun, Ph.D."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+**About**\
 I am a Postdoctoral Fellow in the Department of Management Science and Statistics housed in the Alvarez College of Business at The University of Texas at San Antonio (UTSA). 
 I am also an Adjunct Assistant Professor in the Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
