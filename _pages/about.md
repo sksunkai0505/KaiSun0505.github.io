@@ -23,7 +23,7 @@ via the development and application of\
 
 The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
-(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management systems.
+(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management systems, smart manufacturing.
 
 I received Ph.D. and M.S. in mechanical and aerospace engineering from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
