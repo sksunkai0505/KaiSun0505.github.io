@@ -16,14 +16,14 @@ I am also an **Adjunct Assistant Professor** in the Department of Anesthesiology
 
 My primary research interests center around decision support for real-world problems in healthcare and service systems 
 via the development and application of\
-(i)   Data-driven optimization,\
-(ii)  Graph-based models and algorithms,\
-(iii) Multi-objective optimization,\
-(iv)  Data analytics and machine learning tools.
+(a)   Data-driven optimization,\
+(b)  Graph-based models and algorithms,\
+(c) Multi-objective optimization,\
+(d)  Data analytics and machine learning tools.
 
 The examples of the applications includes:\
-(i) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
-(ii) In **product development and manufacturing**: process planning and scheduling, product lifecycle management systems.
+(1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
+(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management systems.
 
 I received Ph.D. and M.S. in mechanical and aerospace engineering from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
