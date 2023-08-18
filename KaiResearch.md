@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/
+permalink: /KaiResearch/
 author_profile: true
 ---
 
