@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-[Full Curriculum Vitae](https://github.com/sksunkai0505/KaiSun0505.github.io/tree/master/images/KAICV.pdf)
+<a href="/images/KAICV.pdf">Full Curriculum Vitae</a>
 
 Education
 ======
