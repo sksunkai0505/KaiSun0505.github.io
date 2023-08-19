@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="/images/KAICV.pdf">Full Curriculum Vitae</a>
+<a href="https://drive.google.com/file/d/1RKTTAmXwLgNrDkSKTjZmdxSFc4AWo3sS/view?usp=sharing">Full Curriculum Vitae</a>
 
 Education
 ======
