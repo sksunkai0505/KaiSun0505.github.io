@@ -9,51 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+[Full Curriculum Vitae](/images/KAICV.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Syracuse University**\
+2015 - 2020 : Ph.D. in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.\
+2013 - 2015 : M.S.  in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Hefei University of Technology**\
+2009 - 2013 : B.E. in Automotive Engineering, School of Mechanical and Automobile Engineering.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**The University of Texas at San Antonio**\
+2020 - Present: Postdoctoral Fellow at Department of Management Science and Statistics.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**The University of Texas Health Science Center at San Antonio**\
+2023 - Present: Adjunct Assistant Professor at Department of Anesthesiology.
+
+**UsPLM, Inc.**\
+2018       : Mechanical and Research Engineer Intern, developed digital twin system for drone fleet management, web-based flight simulation
+and analysis in 3D virtual reality.
+
+**Filtertech, Inc.**\
+2016       : Research Engineer Intern, Developed and customized product lifecycle management (PLM) system (secondary
+development based on Aras Innovator) with visual analytics tools.
+
+
