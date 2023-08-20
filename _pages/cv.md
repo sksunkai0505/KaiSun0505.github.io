@@ -11,7 +11,7 @@ redirect_from:
 <a href="https://drive.google.com/file/d/1RKTTAmXwLgNrDkSKTjZmdxSFc4AWo3sS/view?usp=sharing">Full Curriculum Vitae</a>
 
 Education
-======
+-----
 **Syracuse University**\
 2015 - 2020 : Ph.D. in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.\
 2013 - 2015 : M.S.  in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.
@@ -20,7 +20,7 @@ Education
 2009 - 2013 : B.E. in Automotive Engineering, School of Mechanical and Automobile Engineering.
 
 Professional Experience
-======
+-----
 **The University of Texas at San Antonio**\
 2020 - Present: **Postdoctoral Fellow** at Department of Management Science and Statistics.
 
