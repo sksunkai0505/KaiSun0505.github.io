@@ -28,23 +28,23 @@ by the PLM systems;
 - The associated software tools that are interacting with the PLM systems.
 
 The courses included:
-- MAE 284: Introduction to CAD (UGRAD), 100+ students 2016-2019
+- MAE 284: Introduction to CAD (UGRAD), 100+ students 2016-2019\
 Topics: • 2D and 3D engineering drawing with SolidWorks for engineering designers
 (consisting of half course credit hours)
-- MAE 333: Data Analysis for Engineers (UGRAD), 70+ students 2018-2019
+- MAE 333: Data Analysis for Engineers (UGRAD), 70+ students 2018-2019\
 Topics: • Introduction to R • Data structures • Data processing and cleaning • Probability
 and distributions • Visualization • Machine learning techniques, i.e., regression,
 clustering, association rules mining
-- MEE 431: Manufacturing Processes (UGRAD), 70+ students 2019
+- MEE 431: Manufacturing Processes (UGRAD), 70+ students 2019\
 Topics: • Introduction to Fusion 360 • Prepare homework problems and solution manual
-- MEE 571: Computer-Aided Design (GRAD), 20+ students 2015-2019
+- MEE 571: Computer-Aided Design (GRAD), 20+ students 2015-2019\
 Topics: • Fundamentals of geometry representation with modern computer-aided design
 software package (PTC Creo) • Advanced computer-aided design, i.e., 3D modeling
 for continuous smooth surface geometry, e.g., spoon, duck, and car projects
-- MFE 639: CAD/CAM Systems (GRAD), 20+ students 2015-2018
+- MFE 639: CAD/CAM Systems (GRAD), 20+ students 2015-2018\
 Topics: • Introduction to CAM systems with applications (SolidWorks and Solid-
 CAM)
-- MFE 692: Design for Manufacturing (GRAD), 20+ students 2016-2018
+- MFE 692: Design for Manufacturing (GRAD), 20+ students 2016-2018\
 Topics: • Introduction to 3D printing • Introduction to PLM systems • PLM data
 management, analysis, and visualization • Guiding the student term projects, i.e.,
 redesign projects of small kitchen appliances and UAVs
