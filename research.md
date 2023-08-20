@@ -15,13 +15,12 @@ author_profile: true
 
 <H3>PUBLICATIONS</H3>
 
-<H4>Accepted/Printed</H4>
-
-
+**Accepted/Printed**
 1. <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
 improving product development lead time in an engineer-to-order manufacturing firm.
 Mathematical Modeling of Engineering Problems, 4(2), 69–74. <a href="https://doi.org/10.18280/mmep.0402010">https://doi.org/10.18280/mmep.040201 </a>
-<H4>Submitted/Under Revision</H4>
+
+**Submitted/Under Revision**
 2. **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
 Scheduling under Demand Uncertainty Using Multi-Objective Programming. Minor revision submitted to *Production and Operations Management*.
 
@@ -29,7 +28,7 @@ Scheduling under Demand Uncertainty Using Multi-Objective Programming. Minor rev
 Definition of Terms for Critical Care Research. Revision submitted to *Journal of
 Critical Care*.
 
-<H4>Work-In-Progress</H4>
+**Work-In-Progress**
 
 4. **Sun, K.**, Sun, M., Dannenhoffer, J., Roy, A. (2023). Solving Resource
 Allocation Problems Using the Method of Maximum Weighted Independent Set. To be submitted.
