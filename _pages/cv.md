@@ -8,7 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://drive.google.com/file/d/1RKTTAmXwLgNrDkSKTjZmdxSFc4AWo3sS/view?usp=sharing">Full Curriculum Vitae</a>
+<a href="https://drive.google.com/file/d/1XQ4o84pBBBhDNKHV7F2594wrYwlZ-NUj/view?usp=sharing">Full Curriculum Vitae</a>
+
+Academic Appointments
+-----
+**The University of Texas at San Antonio**\
+2020 - Present: **Postdoctoral Fellow** at Department of Management Science and Statistics.
+
+**The University of Texas Health Science Center at San Antonio**\
+2023 - Present: **Adjunct Assistant Professor** at Department of Anesthesiology.
+
 
 Education
 -----
@@ -19,13 +28,8 @@ Education
 **Hefei University of Technology**\
 2009 - 2013 : B.E. in Automotive Engineering, School of Mechanical and Automobile Engineering.
 
-Professional Experience
+Industrial Experience
 -----
-**The University of Texas at San Antonio**\
-2020 - Present: **Postdoctoral Fellow** at Department of Management Science and Statistics.
-
-**The University of Texas Health Science Center at San Antonio**\
-2023 - Present: **Adjunct Assistant Professor** at Department of Anesthesiology.
 
 **UsPLM, Inc.**\
 2018       : Mechanical and Research Engineer Intern, developed digital twin system for drone fleet management, web-based flight simulation
@@ -36,3 +40,6 @@ and analysis in 3D virtual reality.
 development based on Aras Innovator) with visual analytics tools.
 
 
+Professional Services
+-----
+Ad hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing*

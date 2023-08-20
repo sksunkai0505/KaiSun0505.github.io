@@ -41,10 +41,29 @@ Solution and Improved Approximation of the Maximum Weighted Independent Set Prob
 Planning and Scheduling Problem Using the Concept of Maximum Weighted Independent
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
 
-<H3>RECENT ORAL PRESENTATIONS</H3>
-1. Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming\
-2023 INFORMS Annual Meeting, October 17th, 2023
-2. Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming\
-Podium Presentation, at 9th annual San Antonio Military Health and Universities Research Forum (SURF), June 15th, 2023
-3. Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming\
-Production and Operations Management Society (POMS), 33rd Annual Conference, May 23rd, 2023
+<H3>SELECTED ORAL PRESENTATIONS</H3>
+"**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**"
+- 2023 INFORMS Annual Meeting, October 17th, 2023
+- Podium Presentation, at 9th annual San Antonio Military Health and Universities Research Forum (SURF), June 15th, 2023
+- Production and Operations Management Society (POMS), 33rd Annual Conference, May 23rd, 2023
+- 2022 INFORMS Annual Meeting, October 16th, 2022
+- 10th Annual San Antonio Postdoctoral Research Forum at UTHealthSA, September 20th, 2022
+- 32nd Annual POMS Conference, April 22nd, 2022
+- Seminar, Department of Management Science and Statistics at UTSA, April 22nd, 2022
+- 2022 Research Symposium at UTHealthSA, April 18th, 2022
+
+"**Optimal Physician Scheduling Solution Using the Method of Maximum Weighted Independent Set (MWIS)**"
+- 32nd Annual POMS Conference, April 22nd, 2022
+
+"**Optimal and Equitable Staffing Solutions for Anesthesiologist Scheduling**"
+- 2021 INFORMS Annual Meeting, October 27th, 2021
+- 31st Annual POMS Conference, April 30th - May 5th, 2021
+
+"**An Integrated Optimal and Equitable Staffing Solution for Anesthesia Scheduling**"
+- 2021 American Association of Clinical Directors Perioperative Leadership Summit, March 19th, 2021
+
+"**Developing a Visual Analytics Tool for Engineering Tasks Assignment for Small and Medium-sized Manufacturing Firm**"
+- 2019 Engineering and Computer Science (ECS) Research Day, March 19th, 2019
+
+"**Aras Innovator in Engineering Education and Research**"
+- Invited Presentation, Aras Community Event (ACE) US 2018, Premier PLM conference by Aras Innovator, March 21st, 2018
