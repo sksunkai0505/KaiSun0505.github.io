@@ -30,6 +30,7 @@ I received a B.E. in Automotive Engineering from Hefei University of Technology 
 
 News
 ------
+<ins>Aug, 2023</ins>
 - Our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
 has been accepted by *Production and Operations Management*.
 - I will be presenting our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
