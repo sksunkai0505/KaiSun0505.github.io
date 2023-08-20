@@ -30,7 +30,9 @@ I received a B.E. in Automotive Engineering from Hefei University of Technology 
 
 News
 ------
-I will be presenting our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
+- Our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
+has been accepted by *Production and Operations Management*.
+- I will be presenting our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
 at 2023 INFORMS Annual Meeting in Phoenix, Arizona, October 15-18, 2023.
 
 
