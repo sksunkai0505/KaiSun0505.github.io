@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 \
-I am a **Postdoctoral Fellow** in the Department of Management Science and Statistics housed in the Alvarez College of Business at The University of Texas at San Antonio (UTSA). 
-I am also an **Adjunct Assistant Professor** in the Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
+I am a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in Alvarez College of Business at The University of Texas at San Antonio (UTSA). 
+I am also an **Adjunct Assistant Professor** in Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
 **I am on the job market for tenure-track faculty positions starting Fall 2024.** 
 
@@ -25,8 +25,13 @@ The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, smart manufacturing.
 
-I received Ph.D. and M.S. in mechanical and aerospace engineering from Syracuse University in 2020 and 2015, respectively.
+I received Ph.D. and M.S. in Mechanical and Aerospace Engineering from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
+
+News
+------
+I will be presenting our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
+at 2023 INFORMS Annual Meeting in Phoenix, Arizona, October 15-18, 2023.
 
 
 Contact
