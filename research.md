@@ -11,7 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
+<H3>RESEARCH INTERESTS</H3>
+My primary research interests center around decision support for real-world problems in healthcare and service systems 
+via the development and application of\
+(a) **Data-driven optimization**\
+(b) **Graph-based models and algorithms**\
+(c) **Multi-objective optimization**\
+(d) **Data analytics and machine learning**
 
+The examples of the applications includes:\
+(1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
+(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, smart manufacturing.
 
 <H3>PROJECTS</H3>
 
