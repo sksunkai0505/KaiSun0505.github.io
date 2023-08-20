@@ -39,7 +39,7 @@ Solution and Improved Approximation of the Maximum Weighted Independent Set Prob
 Planning and Scheduling Problem Using the Concept of Maximum Weighted Independent
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
 
-<H3>SELECTED ORAL PRESENTATIONS</H3>
+<H3>SELECTED PRESENTATIONS</H3>
 "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**"
 - 2023 INFORMS Annual Meeting, October 17th, 2023
 - Podium Presentation, at 9th annual San Antonio Military Health and Universities Research Forum (SURF), June 15th, 2023
