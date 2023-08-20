@@ -19,12 +19,10 @@ author_profile: true
 **Optimal Scheduling of Physicians and Certified Registered Nurses**, at
 UTSA and UTHealthSA;
 - Developed data-driven scheduling and analytics framework with novel mixed-
-integer multi-objective programming formulation and solution methods to sup-
-port clinical operations and strategic decisions,
+integer multi-objective programming formulation and solution methods to support clinical operations and strategic decisions,
 - Embedded in the Department of Anesthesiology, working hand-in-hand with
 the front-line clinicians and administrators from UTHealthSA,
-- The developed framework has been implemented and deployed for anesthesi-
-ology scheduling and operational analysis with more than 200 providers. This
+- The developed framework has been implemented and deployed for anesthesiology scheduling and operational analysis with more than 200 providers. This
 improved physician schedule satisfaction from 3.13/5 to 3.47/5, and relieved at
 least 82% of scheduling burdens on departmental leaders.
 
@@ -39,7 +37,6 @@ allocation optimization tools with the Smart PLM system for the engineering
 design department at Filtertech, Inc.;
 - Developed and deployed digital twin and flight mission configuration services
 for the drone fleet management solution at UsPLM, Inc.;
-- Developed educational and training materials for UAV design and fleet man-
-agement curriculums at SU.
+- Developed educational and training materials for UAV design and fleet management curriculums at SU.
 
 
