@@ -25,3 +25,6 @@ main:
 #    url: /markdown/
   - title: "Honors and Awards"
     url: /awards/
+
+  - title: "News"
+    url: /news/

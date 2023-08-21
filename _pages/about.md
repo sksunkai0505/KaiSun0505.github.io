@@ -28,7 +28,7 @@ The examples of the applications includes:\
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
-News
+Latest News
 ------
 <ins>Aug, 2023</ins>
 - Our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
