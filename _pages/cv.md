@@ -42,4 +42,4 @@ development based on Aras Innovator) with visual analytics tools.
 
 Professional Services
 -----
-Ad hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing*
+Ad-hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing*
