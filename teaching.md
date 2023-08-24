@@ -8,8 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
+\
+
+
 **Alvarez College of Business, UTSA** 2021 - 2023\
-- Instructor of the workshop series on **Data Analytics with Python** from 9/16/2023 - 10/72023
+
+Instructor of the workshop series on **Data Analytics with Python** from 9/16/2023 - 10/72023
 
 Guest Lectures in:
 - DA 6813: Data Analytics Applications (GRAD)
