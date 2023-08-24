@@ -12,6 +12,7 @@ author_profile: true
 {% include base_path %}
 
 <ins>Aug, 2023</ins>
+- I will be teaching a workshop series on **Data Analytics with Python** at UTSA Alvarez College of Business from 9/16/2023 - 10/72023.
 - Our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
 has been accepted by *Production and Operations Management*.
 - I will present our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
