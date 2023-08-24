@@ -23,7 +23,7 @@ author_profile: true
 - MS 4203: Business Analytics Applications (UGRAD)
 
 **Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022\
-<ins>Lecturer</ins>for Grand Rounds Lecture entitled, “What can you trust? AI risk in healthcare.”
+<ins>Lecturer</ins> for Grand Rounds Lecture entitled, “What can you trust? AI risk in healthcare.”
 
 **College of Engineering and Computer Science, SU**\
 <ins>Graduate Teaching Assistant</ins> September 2015 - May 2020\
