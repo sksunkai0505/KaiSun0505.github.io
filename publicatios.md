@@ -29,7 +29,7 @@ Definition of Terms for Critical Care Research. Revision submitted to *Journal o
 Critical Care*.
 
 **Work-In-Progress**
-4. **Sun, K.**, Li, W., Sun, M., Dannenhoffer, J., Roy, A. (2023). Solving Resource Constrained Scheduling Problems Using 
+4. **Sun, K.**, Sun, M., Dannenhoffer, J., Roy, A. (2023). Solving Resource Constrained Scheduling Problems Using 
 the Concept of Maximum Weighted Independent Set. To be submitted.
 
 5. **Sun, K.**, Dannenhoffer, J., Roy, U. (2020). An Algorithm Framework for the Exact
