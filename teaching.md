@@ -16,7 +16,7 @@ author_profile: true
 
 
 
-<ins>Instructor</ins> for the workshop series on "**Data Analytics with Python**" from 9/16/2023 - 10/72023
+<ins>Instructor</ins> for the workshop series on "**Data Analytics with Python**" from 9/16/2023 - 10/7/2023
 
 <ins>Guest Lecturer</ins> in:
 - DA 6813: Data Analytics Applications (GRAD)
