@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-\
+
 
 
 **Alvarez College of Business, UTSA** 2021 - 2023\
