@@ -11,19 +11,19 @@ author_profile: true
 
 
 
-**Alvarez College of Business, UTSA** 2021 - 2023\
+**Alvarez College of Business, UTSA** 2021 - 2023
 
-Instructor of the workshop series on **Data Analytics with Python** from 9/16/2023 - 10/72023
+**Instructor** of the workshop series on **Data Analytics with Python** from 9/16/2023 - 10/72023
 
-Guest Lectures in:
+**Guest Lecturer** in:
 - DA 6813: Data Analytics Applications (GRAD)
 - MS 4203: Business Analytics Applications (UGRAD)
 
 **Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022\
-Grand Rounds lecture titled, “What can you trust? AI risk in healthcare.”
+**Lecturer** for Grand Rounds Lecture entitled, “What can you trust? AI risk in healthcare.”
 
 **College of Engineering and Computer Science, SU**\
-Graduate Teaching Assistant September 2015 - May 2020\
+**Graduate Teaching Assistant** September 2015 - May 2020\
 Teaching and tutoring experience centered on courses related to PLM systems, which
 manage a product and associated data through all stages of the product lifecycle,
 including:
