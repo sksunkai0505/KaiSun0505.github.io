@@ -39,14 +39,19 @@ least 82% of scheduling burdens on departmental leaders.
 
 **Development and Application of Smart PLM systems**, at SU and collaborated with two local companies, i.e., Filtertech, Inc. and UsPLM, Inc.;
 - Built product design libraries (25+ products and 300+ components) for small
-kitchen appliances and unmanned aerial vehicles (UAVs);
+kitchen appliances and unmanned aerial vehicles (UAVs) 
+[<a href="https://www.youtube.com/watch?v=IOUOeyWYNPg&t=8s">Product Design Repository</a>];
 - Developed data analytics, product configuration, and process planning and
 scheduling optimization modules for the Smart PLM system;
 - Developed and deployed visual analytics, product configuration, and resource
 allocation optimization tools with the Smart PLM system for the engineering
-design department at Filtertech, Inc.;
+design department at Filtertech, Inc. [<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>];
 - Developed and deployed digital twin and flight mission configuration services
-for the drone fleet management solution at UsPLM, Inc.;
+for the drone fleet management solution at UsPLM, Inc. 
+[<a href="https://www.youtube.com/watch?v=jhsvqWByD-g">Demo1</a>]
+[<a href="https://www.youtube.com/watch?v=rgsTScrZLJ0">Demo2</a>]
+[<a href="https://www.youtube.com/watch?v=PCRxlNHMESQ">Demo3</a>]
+[<a href="https://www.youtube.com/watch?v=pvT9TPI4Lyk">Demo4</a>];
 - Developed educational and training materials for UAV design and fleet management curriculums at SU.
 
 
