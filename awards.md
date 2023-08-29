@@ -17,7 +17,7 @@ author_profile: true
 
 
 
-**Poster Exhibit and Competition FinalList**
+**Poster Exhibit and Competition Finalist**
 - Issued by 2021 American Association of Clinical Directors (AACD) Preoperative
 Leadership Summit, March 2021, Virtual
 
