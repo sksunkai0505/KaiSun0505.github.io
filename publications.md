@@ -17,7 +17,7 @@ author_profile: true
 
 **Accepted/Printed**
 1. **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
-Scheduling under Demand Uncertainty Using Multi-Objective Programming. Accepted by *Production and Operations Management*.
+Scheduling under Demand Uncertainty Using Multi-Objective Programming. Accepted (on 8/20/2023) by *Production and Operations Management*.
 
 2. <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
 improving product development lead time in an engineer-to-order manufacturing firm.
