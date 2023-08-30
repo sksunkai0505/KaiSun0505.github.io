@@ -32,7 +32,7 @@ Latest News
 ------
 <ins>Aug, 2023</ins>
 - I will be teaching the workshop series on 
-<a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">"**<ins>Data Analytics with Python</ins>**"</a> at UTSA Alvarez College of Business
+<a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">"**Data Analytics with Python**"</a> at UTSA Alvarez College of Business
 from 9/16/2023 - 10/7/2023.
 - "**Data Analytics with Python**" at UTSA Alvarez College of Business from 9/16/2023 - 10/7/2023.
 - Our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
