@@ -12,7 +12,7 @@ redirect_from:
 I am a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in Alvarez College of Business at The University of Texas at San Antonio (UTSA).\
 I am also an **Adjunct Assistant Professor** in Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
-**<span style="color:red">I am on the job market for tenure-track faculty positions starting Fall 2024.**</span>
+<span style="color:red">**I am on the job market for tenure-track faculty positions starting Fall 2024.**</span>
 
 My primary research interests center around decision support for real-world problems in healthcare and service systems 
 via the development and application of\
