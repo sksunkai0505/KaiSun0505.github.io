@@ -44,6 +44,8 @@ at 2023 INFORMS Annual Meeting in Phoenix, Arizona, October 15-18, 2023.
 
 Contact
 ------
+<ins>kai.sun@utsa.edu</ins>
+
 [LinkedIn](https://www.linkedin.com/in/kai-sun-211a47bb/)
 \
 [ResearchGate](https://www.researchgate.net/profile/Kai-Sun-70)
