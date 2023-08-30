@@ -17,8 +17,17 @@ author_profile: true
 
 
 <ins>Instructor</ins> for the workshop series on "**Data Analytics with Python**" 
-from 9/16/2023 - 10/7/2023. The workshop videos are also available on 
+from 9/16/2023 - 10/7/2023 on the four Saturday afternoons.
+
+**Schedule**:
+1) introduction to data analytics and Python, 1:00pm to 3:00pm, September 16th
+2) data manipulation and visualization methods, 1:00pm to 3:00pm, September 23rd
+3) regression and classification modeling with examples, 1:00pm to 3:00pm, September 30th
+4) introduction to mathematical modeling with examples, 1:00pm to 3:00pm, October 7th.
+
+The workshop videos are also available on 
 <a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">YouTube</a>.
+
 
 <ins>Guest Lecturer</ins> in:
 - DA 6813: Data Analytics Applications (GRAD)
