@@ -16,9 +16,9 @@ author_profile: true
 
 
 
-<ins>Instructor</ins> for the workshop series on 
-"<a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">**Data Analytics with Python**</a>"
-from 9/16/2023 - 10/7/2023
+<ins>Instructor</ins> for the workshop series on "**Data Analytics with Python**" 
+from 9/16/2023 - 10/7/2023. The workshop videos are also available on 
+<a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">YouTube</a>.
 
 <ins>Guest Lecturer</ins> in:
 - DA 6813: Data Analytics Applications (GRAD)
