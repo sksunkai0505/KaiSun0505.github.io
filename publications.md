@@ -44,6 +44,7 @@ Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.0196
 - 2023 INFORMS Annual Meeting, October 17th, 2023
 - Podium Presentation, at 9th annual San Antonio Military Health and Universities Research Forum (SURF), June 15th, 2023
 - Production and Operations Management Society (POMS), 33rd Annual Conference, May 23rd, 2023
+- Los Datos Conference 2023, UTSA School of Data Science, April 20th, 2023
 - 2022 INFORMS Annual Meeting, October 16th, 2022
 - 10th Annual San Antonio Postdoctoral Research Forum at UTHealthSA, September 20th, 2022
 - 32nd Annual POMS Conference, April 22nd, 2022
