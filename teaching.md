@@ -17,8 +17,7 @@ author_profile: true
 
 
 <ins>Instructor</ins> for the UTSA workshop series on "**Data Analytics with Python**." 
-The workshops are on the four Saturday afternoons from 9/16/2023 - 10/7/2023.
-
+The workshops are on the four Saturday afternoons from 9/16/2023 - 10/7/2023.\
 <ins>Schedule</ins>:
 1. Introduction to data analytics and Python, 1:00pm to 3:00pm, September 16th
 2. Data manipulation and visualization methods, 1:00pm to 3:00pm, September 23rd
@@ -26,7 +25,6 @@ The workshops are on the four Saturday afternoons from 9/16/2023 - 10/7/2023.
 4. Introduction to mathematical modeling with examples, 1:00pm to 3:00pm, October 7th
 
 The course materials can be accessed <a href="https://drive.google.com/drive/folders/12eP55Jn_vKMDF2kcyEPCrGAgc0rREKXn">here</a>.
-
 The workshop videos are also available on 
 <a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">YouTube</a>.
 
