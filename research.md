@@ -37,7 +37,7 @@ improved physician schedule satisfaction from 3.13/5 to 3.47/5, and relieved at
 least 82% of scheduling burdens on departmental leaders.
 
 
-**Development and Application of Smart PLM systems**, at SU and collaborated with two local companies, i.e., Filtertech, Inc. and UsPLM, Inc.;
+**Development and Application of Data Analytics Functionalities for Smart PLM systems**, at SU and collaborated with two local companies, i.e., Filtertech, Inc. and UsPLM, Inc.;
 - Developed a noval algorithm framework for solving the maximum weighted independent set problem, 
 exact and improved estimation algorithms were created using the framework
 - Developed a noval graph-based formulation for process planning and scheduling problems and its solution methods
