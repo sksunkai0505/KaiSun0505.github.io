@@ -38,11 +38,15 @@ least 82% of scheduling burdens on departmental leaders.
 
 
 **Development and Application of Smart PLM systems**, at SU and collaborated with two local companies, i.e., Filtertech, Inc. and UsPLM, Inc.;
+- Developed a noval algorithm framework for solving the maximum weighted independent set problem, 
+exact and improved estimation algorithms were created using the framework
+- Developed a noval graph-based formulation for process planning and scheduling problems and its solution methods
+using the concept of maximum weighted independent set
 - Built product design libraries (25+ products and 300+ components) for small
 kitchen appliances and unmanned aerial vehicles (UAVs) 
 [<a href="https://www.youtube.com/watch?v=IOUOeyWYNPg&t=8s">Product Design Repository</a>];
 - Developed data analytics, product configuration, and process planning and
-scheduling optimization modules for the Smart PLM system;
+scheduling optimization modules for the Smart PLM system
 - Developed and deployed visual analytics, product configuration, and resource
 allocation optimization tools with the Smart PLM system for the engineering
 design department at Filtertech, Inc. [<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>];
