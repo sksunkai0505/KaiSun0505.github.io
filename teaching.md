@@ -25,7 +25,7 @@ The workshop videos are also available on
 (1) Introduction to data analytics and Python, 1:00pm to 3:00pm, September 16th\
 (2) Data manipulation and visualization methods, 1:00pm to 3:00pm, September 23rd\
 (3) Regression and classification modeling with examples, 1:00pm to 3:00pm, September 30th\
-(4) Introduction to mathematical modeling with examples, 1:00pm to 3:00pm, October 7th\
+(4) Introduction to mathematical modeling with examples, 1:00pm to 3:00pm, October 7th
 
 
 
