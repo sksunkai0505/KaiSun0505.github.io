@@ -21,7 +21,7 @@ The workshops are on the four Saturday afternoons from 9/16/2023 - 10/7/2023.
 The course materials can be accessed <a href="https://drive.google.com/drive/folders/12eP55Jn_vKMDF2kcyEPCrGAgc0rREKXn">here</a>.
 The workshop videos are also available on 
 <a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">YouTube</a>.\
-<ins>Schedule</ins>:\
+*Schedule*:\
 (1) Introduction to data analytics and Python, 1:00pm to 3:00pm, September 16th\
 (2) Data manipulation and visualization methods, 1:00pm to 3:00pm, September 23rd\
 (3) Regression and classification modeling with examples, 1:00pm to 3:00pm, September 30th\
@@ -33,8 +33,10 @@ The workshop videos are also available on
 - DA 6813: Data Analytics Applications (GRAD)
 - MS 4203: Business Analytics Applications (UGRAD)
 
-**Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022\
-<ins>Lecturer</ins> for Grand Rounds Lecture entitled, “What can you trust? AI risk in healthcare.”
+**Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022, 2023\
+<ins>Lecturer</ins> for Grand Rounds Lecture entitled, “Equitable Anesthesiologist 
+Scheduling under Demand Uncertainty: the Secret behind UH-OR Shift Assignments.”\
+<ins>Lecturer</ins> for Grand Rounds Lecture entitled, “What Can You Trust? AI Risk in Healthcare.”
 
 **College of Engineering and Computer Science, SU**\
 <ins>Graduate Teaching Assistant</ins> September 2015 - May 2020\
