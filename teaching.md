@@ -64,6 +64,9 @@ and distributions • Visualization • Machine learning techniques, i.e., regre
 clustering, association rules mining
 - MEE 431: Manufacturing Processes (UGRAD), 70+ students 2019\
 Topics: • Introduction to Fusion 360 • Prepare homework problems and solution manual
+- MEE 548: Engineering Economics and Technology Valuation (GRAD), 70+ students 2020\
+Topics: • Weekly workshops on project management case studies • Prepare homework
+solution manual
 - MEE 571: Computer-Aided Design (GRAD), 20+ students 2015-2019\
 Topics: • Fundamentals of geometry representation with modern computer-aided design
 software package (PTC Creo) • Advanced computer-aided design, i.e., 3D modeling
