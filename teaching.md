@@ -27,6 +27,7 @@ The workshop videos are also available on
 (3) Regression and classification modeling with examples, 1:00pm to 3:00pm, September 30th\
 (4) Introduction to mathematical modeling with examples, 1:00pm to 3:00pm, October 7th
 *Evaluation*:\
+
 |               | Respondents | Overall Course | Overall Teaching |
 | ------------- | ------------- | ------------- | ------------- |
 | Lecture 1 (9/16/2023)   | 16  | 4.8125 | 4.8125 |
