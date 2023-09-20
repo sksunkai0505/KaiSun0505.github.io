@@ -26,7 +26,7 @@ The workshop videos are also available on
 (2) Data manipulation and visualization methods, 1:00pm to 3:00pm, September 23rd\
 (3) Regression and classification modeling with examples, 1:00pm to 3:00pm, September 30th\
 (4) Introduction to mathematical modeling with examples, 1:00pm to 3:00pm, October 7th
-*Evaluation*:\
+*Evaluation*:
 
 |                       | Respondents | Overall Course | Overall Teaching |
 |-----------------------|-------------|----------------|------------------|
