@@ -17,11 +17,11 @@ author_profile: true
 
 **Accepted/Printed**
 1. **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
-Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*. <a href="https://doi.org/10.18280/mmep.0402010">https://doi.org/10.1111/poms.14058</a>
+Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*. <a href="https://doi.org/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 
 2. <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
 improving product development lead time in an engineer-to-order manufacturing firm.
-*Mathematical Modeling of Engineering Problems*, 4(2), 69–74. <a href="https://doi.org/10.18280/mmep.0402010">https://doi.org/10.18280/mmep.040201</a>
+*Mathematical Modeling of Engineering Problems*, 4(2), 69–74. <a href="https://doi.org/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
 
 **Submitted/Under Revision**
 3. **Sun, K.**, Roy, A., Tobin, J. (2023). Artificial Intelligence and Machine Learning:
