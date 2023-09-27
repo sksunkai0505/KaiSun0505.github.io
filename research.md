@@ -40,7 +40,7 @@ least 82% of scheduling burdens on departmental leaders.
 **Development and Application of Data Analytics for Smart PLM systems**, at SU and collaborated with two local companies, i.e., Filtertech, Inc. and UsPLM, Inc.;
 - Developed a novel algorithm framework for the maximum weighted independent set (MWIS) problem, exact and improved estimation algorithms were created using the framework.
 - Developed a novel graph-based formulation approach for process planning and scheduling problems with its solution methods using the concept of MWIS.
-- Built product design libraries (25+ products and 300+ components) for small
+- Built product design libraries (50+ products and 500+ components) for small
 kitchen appliances and unmanned aerial vehicles (UAVs) 
 [<a href="https://www.youtube.com/watch?v=IOUOeyWYNPg&t=8s">Product Design Repository</a>].
 - Developed visual analytics, product configuration, resource allocation, and process 
