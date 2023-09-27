@@ -21,7 +21,7 @@ via the development and application of\
 
 The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
-(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, smart manufacturing.
+(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
 <H3>PROJECTS</H3>
 
