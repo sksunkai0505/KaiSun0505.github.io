@@ -43,11 +43,10 @@ least 82% of scheduling burdens on departmental leaders.
 - Built product design libraries (25+ products and 300+ components) for small
 kitchen appliances and unmanned aerial vehicles (UAVs) 
 [<a href="https://www.youtube.com/watch?v=IOUOeyWYNPg&t=8s">Product Design Repository</a>].
-- Developed data analytics, product configuration, and process planning and
-scheduling optimization modules for the Smart PLM system.
-- Developed and deployed visual analytics, product configuration, and resource
-allocation optimization tools with the Smart PLM system for the engineering
-design department at Filtertech, Inc. [<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>].
+- Developed visual analytics, product configuration, resource allocation, and process 
+planning and scheduling modules for the Smart PLM system, and deployed
+these tools for the engineering design department at Filtertech, Inc. 
+[<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>].
 - Developed and deployed digital twin and flight mission configuration services
 for the drone fleet management solution at UsPLM, Inc. 
 [<a href="https://www.youtube.com/watch?v=jhsvqWByD-g">Demo1</a>]

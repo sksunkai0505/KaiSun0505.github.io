@@ -23,7 +23,7 @@ via the development and application of\
 
 The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
-(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, smart manufacturing.
+(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
@@ -35,7 +35,7 @@ Latest News
 "<a href="https://youtube.com/playlist?list=PLwULGI0TbkccvUbA7zRMJlSER76X5O6aE&si=vfJw56FfLjB5Io_U">**Data Analytics with Python**</a>" at UTSA Alvarez College of Business
 from 9/16/2023 - 10/7/2023.
 - Our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
-has been accepted by *Production and Operations Management*. 
+is published in *Production and Operations Management*. 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 - I will be presenting our work, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**,"
 at 2023 INFORMS Annual Meeting in Phoenix, Arizona, October 15-18, 2023.
