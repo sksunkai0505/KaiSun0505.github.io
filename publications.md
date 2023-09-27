@@ -41,7 +41,7 @@ Planning and Scheduling Problem Using the Concept of Maximum Weighted Independen
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
 
 **Work-In-Progress**\
-[•] **Sun, K.**, Rosinia, F., Roy, A. (2024). Equitable scheduling for anesthesiology
+[•] **Sun, K.**, Rosinia, F., Roy, A. (2023). Equitable scheduling for anesthesiology
 residents in operating room settings incorporating training requirements and lifestyle
 preferences.
 
