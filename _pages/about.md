@@ -25,7 +25,7 @@ The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
-I received Ph.D. and M.S. in Mechanical and Aerospace Engineering from Syracuse University in 2020 and 2015, respectively.
+I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on Operations Research from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
 Latest News
