@@ -15,7 +15,7 @@ author_profile: true
 
 <H3>PUBLICATIONS</H3>
 
-**Accepted/Printed**\
+**Accepted/Printed**
 
 [1] **Sun, K.**, Roy, A., Tobin, J. (2023). Artificial Intelligence and Machine Learning:
 Definition of Terms for Critical Care Research. Accepted by *Journal of Critical Care*.
@@ -29,10 +29,12 @@ improving product development lead time in an engineer-to-order manufacturing fi
 *Mathematical Modeling of Engineering Problems*, 4(2), 69–74. 
 <a href="https://www.iieta.org/journals/mmep/paper/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
 
-**Submitted/Under Revision**\
+**Submitted/Under Revision**
 
+[-none-]
 
-**Working Paper**\
+**Working Paper**
+
 [4] **Sun, K.**, Sun, M., Dannenhoffer, J., Roy, A. (2023). Solving Resource Constrained Scheduling Problems Using 
 the Concept of Maximum Weighted Independent Set. To be submitted to INFORMS Journal on Computing.
 
