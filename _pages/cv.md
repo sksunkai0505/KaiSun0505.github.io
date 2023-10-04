@@ -23,7 +23,8 @@ Education
 -----
 **Syracuse University**\
 2015 - 2020 : Ph.D. in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.\
-2013 - 2015 : M.S.  in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.
+2013 - 2015 : M.S.  in Mechanical and Aerospace Engineering, College of Engineering and Computer Science.\
+with a focus on Operations Research 
 
 **Hefei University of Technology**\
 2009 - 2013 : B.E. in Automotive Engineering, School of Mechanical and Automobile Engineering.
