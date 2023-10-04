@@ -31,30 +31,29 @@ improving product development lead time in an engineer-to-order manufacturing fi
 
 **Submitted/Under Revision**
 
-[-none-]
+[-To be updated-]
 
 **Working Paper**
 
-[4] **Sun, K.**, Sun, M., Dannenhoffer, J., Roy, A. (2023). Solving Resource Constrained Scheduling Problems Using 
-the Concept of Maximum Weighted Independent Set. To be submitted to INFORMS Journal on Computing.
+[4] **Sun, K.**, Sun, M., Dannenhoffer, J., Roy, A. Solving Resource Constrained Scheduling Problems Using 
+the Concept of Maximum Weighted Independent Set. Target INFORMS Journal on Computing.
 
-[5] **Sun, K.**, Dannenhoffer, J., Roy, U. (2020). An Algorithm Framework for the Exact
+[5] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
 Solution and Improved Approximation of the Maximum Weighted Independent Set Problem (arXiv:2008.01961). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01961">https://doi.org/10.48550/arXiv.2008.01961 </a>
 
-[6] **Sun, K.**, Dannenhoffer, J., Roy, U. (2020). A Novel Approach for the Process
+[6] **Sun, K.**, Dannenhoffer, J., Roy, U. A Novel Approach for the Process
 Planning and Scheduling Problem Using the Concept of Maximum Weighted Independent
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
 
 **Work-In-Progress**\
-[•] **Sun, K.**, Rosinia, F., Roy, A. (2023). Equitable scheduling for anesthesiology
-residents in operating room settings incorporating training requirements and lifestyle
-preferences.
+[•] **Sun, K.**, Rosinia, F., Roy, A. Equitable Scheduling for Anesthesiology Residents 
+in Operating Room Settings Incorporating Training Requirements and Lifestyle Preferences.
 
-[•] **Sun, K.**, Rosinia, F., Roy, A. (2024). Provider scheduling in an outpatient
-clinic using a conflicting graph.
+[•] **Sun, K.**, Rosinia, F., Roy, A. Provider Scheduling in an Outpatient Clinic using 
+the Method of Conflicting Graph.
 
-[•] **Sun, K.**, Rosinia, F., Roy, A. (2024+). Optimal certified registered nurse anesthetists 
-(CRNAs) scheduling in operating room setting under demand uncertainty.
+[•] **Sun, K.**, Rosinia, F., Roy, A. Optimal Certified Registered Nurse Anesthetist (CRNA) 
+Scheduling in Operating Room Setting under Demand Uncertainty.
 
 
 
