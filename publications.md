@@ -21,7 +21,7 @@ author_profile: true
 Definition of Terms for Critical Care Research. Accepted by *Journal of Critical Care*.
 
 [2] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
-Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*. 
+Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*, 1–18. 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 
 [3] <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
@@ -35,7 +35,7 @@ improving product development lead time in an engineer-to-order manufacturing fi
 
 **Working Paper**
 
-[4] **Sun, K.**, Sun, M., Dannenhoffer, J., Roy, A. Solving Resource Constrained Scheduling Problems Using 
+[4] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. Solving Resource Constrained Scheduling Problems Using 
 the Concept of Maximum Weighted Independent Set. Target INFORMS Journal on Computing.
 
 [5] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact

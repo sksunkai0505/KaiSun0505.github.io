@@ -14,7 +14,7 @@ I am also an **Adjunct Assistant Professor** in Department of Anesthesiology at 
 
 <span style="color:red">**I am on the job market for tenure-track faculty positions starting Fall 2024.**</span>
 
-My primary research interests center around decision support for real-world problems in healthcare and service systems 
+My primary research interests center around **optimal and equitable resource planning in service systems**
 via the development and application of\
 (a) **Data-driven optimization**\
 (b) **Graph-based models and algorithms**\
@@ -22,7 +22,7 @@ via the development and application of\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
-(1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
+(1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and provider scheduling;\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on Operations Research from Syracuse University in 2020 and 2015, respectively.
