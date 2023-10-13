@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 <H3>RESEARCH INTERESTS</H3>
-My primary research interests center around decision support for real-world problems in healthcare and service systems 
+My primary research interests center around **optimal and equitable resource planning in service systems**
+service systems 
 via the development and application of\
 (a) **Data-driven optimization**\
 (b) **Graph-based models and algorithms**\
