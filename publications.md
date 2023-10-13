@@ -36,7 +36,7 @@ improving product development lead time in an engineer-to-order manufacturing fi
 **Working Paper**
 
 [4] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. Solving Resource Constrained Scheduling Problems Using 
-the Concept of Maximum Weighted Independent Set. Target INFORMS Journal on Computing.
+the Concept of Maximum Weighted Independent Set. Target *INFORMS Journal on Computing*.
 
 [5] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
 Solution and Improved Approximation of the Maximum Weighted Independent Set Problem (arXiv:2008.01961). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01961">https://doi.org/10.48550/arXiv.2008.01961 </a>
