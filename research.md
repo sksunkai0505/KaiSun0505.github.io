@@ -15,9 +15,9 @@ author_profile: true
 My primary research interests center around **optimal and equitable resource planning in service systems**
 service systems 
 via the development and application of\
-(a) **Data-driven optimization**\
-(b) **Graph-based models and algorithms**\
-(c) **Multi-objective optimization**\
+(a) **optimization under uncertainty**\
+(b) **Multi-objective optimization**\
+(c) **Graph-based models and algorithms**\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
@@ -49,11 +49,13 @@ planning and scheduling modules for the Smart PLM system, and deployed
 these tools for the engineering design department at Filtertech, Inc. 
 [<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>].
 - Developed and deployed digital twin and flight mission configuration services
-for the drone fleet management solution at UsPLM, Inc. 
+for the drone fleet management solution at UsPLM, Inc., Key contributor to
+win Genius NY 2018 investment competition, **$250,000** (external, NY State)
 [<a href="https://www.youtube.com/watch?v=jhsvqWByD-g">Demo1</a>]
 [<a href="https://www.youtube.com/watch?v=rgsTScrZLJ0">Demo2</a>]
 [<a href="https://www.youtube.com/watch?v=PCRxlNHMESQ">Demo3</a>]
 [<a href="https://www.youtube.com/watch?v=pvT9TPI4Lyk">Demo4</a>];
-- Developed educational and training materials for UAV design and fleet management curriculums at SU.
+- Development of Educational and Training Materials for Unmanned Aerial Sys-
+tems, wrote the proposal for the Gryphon Sensors grant, **$20,000** (external).
 
 

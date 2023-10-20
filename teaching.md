@@ -29,7 +29,7 @@ The workshop videos are also available on
 
 | Evaluation                  | Respondents | Overall Course | Overall Teaching |
 |-----------------------------|-------------|----------------|------------------|
-| Data Analytics with Python  | 16          | 4.8125/5       | 4.8125/5         |
+| Data Analytics with Python  | 20          | 4.8/5          | 4.85/5           |
 
 
 <ins>Guest Lecturer</ins> in:

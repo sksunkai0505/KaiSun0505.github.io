@@ -16,9 +16,9 @@ I am also an **Adjunct Assistant Professor** in Department of Anesthesiology at 
 
 My primary research interests center around **optimal and equitable resource planning in service systems**
 via the development and application of\
-(a) **Data-driven optimization**\
-(b) **Graph-based models and algorithms**\
-(c) **Multi-objective optimization**\
+(a) **optimization under uncertainty**\
+(b) **Multi-objective optimization**\
+(c) **Graph-based models and algorithms**\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
