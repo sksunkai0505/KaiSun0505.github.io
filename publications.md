@@ -40,7 +40,7 @@ the Concept of Maximum Weighted Independent Set.\
 Target *INFORMS Journal on Computing*.
 
 [5] **Sun, K.**, Dannenhoffer, J., An Algorithm Framework for the Exact Solution and
-Improved Approximation of the Maximum Weighted Independent Set Problem.\
+Improved Approximations of the Maximum Weighted Independent Set Problem.\
 Target: *Journal of Combinatorial Optimization*.
 
 [6] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
