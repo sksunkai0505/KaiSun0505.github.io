@@ -13,10 +13,12 @@ redirect_from:
 Academic Appointments
 -----
 **The University of Texas at San Antonio**\
-2020 - Present: **Postdoctoral Fellow** at Department of Management Science and Statistics.
+2020 - Present: **Postdoctoral Fellow** at Department of Management Science and Statistics, 
+**Alvarez College of Business**.
 
 **The University of Texas Health Science Center at San Antonio**\
-2023 - Present: **Adjunct Assistant Professor** at Department of Anesthesiology.
+2023 - Present: **Adjunct Assistant Professor** at Department of Anesthesiology, 
+**Joe R. & Teresa Lozano Long School of Medicine**.
 
 
 Education
