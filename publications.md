@@ -52,8 +52,8 @@ Planning and Scheduling Problem Using the Concept of Maximum Weighted Independen
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
 
 **Work-In-Progress**\
-[•] Machine learning guided anesthesiology resident scheduling.
-[•] Provider scheduling in an outpatient clinic using the method of conflicting graph.
+[•] Machine learning guided anesthesiology resident scheduling.\
+[•] Provider scheduling in an outpatient clinic using the method of conflicting graph.\
 [•] Topological text mining in healthcare applications, e.g., medical chart review.
 
 
