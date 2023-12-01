@@ -36,7 +36,7 @@ The workshop videos are also available on
 - DA 6813: Data Analytics Applications (GRAD)
 - MS 4203: Business Analytics Applications (UGRAD)
 
-**Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022, 2023\
+**Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022 - 2023\
 <ins>Lecturer</ins> for Grand Rounds Lecture entitled, “Equitable Anesthesiologist 
 Scheduling under Demand Uncertainty: the Secret behind UH-OR Shift Assignments.”\
 <ins>Lecturer</ins> for Grand Rounds Lecture entitled, “What Can You Trust? AI Risk in Healthcare.”
@@ -63,16 +63,14 @@ clustering, association rules mining
 - MEE 431: Manufacturing Processes (UGRAD), 70+ students 2019\
 Topics: • Introduction to Fusion 360 • Prepare homework problems and solution manual
 - MEE 548: Engineering Economics and Technology Valuation (GRAD), 70+ students 2020\
-Topics: • Weekly workshops on project management case studies • Prepare homework
-solution manual
+Topics: • Project management • Cash flow and time-value of money • Decision trees 
+• Risk management and @Risk • Weekly workshops on project management case studies • Prepare homework solution manual
 - MEE 571: Computer-Aided Design (GRAD), 20+ students 2015-2019\
-Topics: • Fundamentals of geometry representation with modern computer-aided design
-software package (PTC Creo) • Advanced computer-aided design, i.e., 3D modeling
-for continuous smooth surface geometry, e.g., spoon, duck, and car projects
+Topics: • Fundamentals of geometry representation with modern computer-aided design software package (PTC Creo) • Parametrical geometry information representation
+• Semantic geometry information representation • Ontology engineering • Advanced computer-aided design, i.e., 3D modeling for continuous smooth surface geometry,
+e.g., spoon, duck, and car projects
 - MFE 639: CAD/CAM Systems (GRAD), 20+ students 2015-2018\
-Topics: • Introduction to CAM systems with applications (SolidWorks and Solid-
-CAM)
+Topics: • Introduction to CAM systems with applications (SolidWorks and SolidCAM) • Information systems for CAD and CAM with applications
 - MFE 692: Design for Manufacturing (GRAD), 20+ students 2016-2018\
-Topics: • Introduction to 3D printing • Introduction to PLM systems • PLM data
-management, analysis, and visualization • Guiding the student term projects, i.e.,
-redesign projects of small kitchen appliances and UAVs
+Topics: • Introduction to 3D printing • Introduction to PLM and ERP systems • Database management • Change management • Data analytics and visualization •
+Guiding the student term projects, i.e., redesign projects of small kitchen appliances and UAVs
