@@ -1,6 +1,6 @@
 ---
 
-title: "Awards"
+title: "Fundings and Awards"
 
 permalink: /awards/
 
@@ -15,7 +15,11 @@ author_profile: true
 - Issued by the SyracuseCoE (New York State's Center of Excellence in Environmental and Energy Systems), Syracuse University, May 2016
 - **Co-PI**, **$5,000**, awarded for the research project titled, “*Development of Smart PLM Platform for Filtertech, Inc.*”
 
-
+**New York State Industrial Collaboration Award**
+- Issued by the Center for Advanced Systems and Engineering at SU, Jan 2016
+- **Co-PI**, **$60,000** awarded for the research project titled, "*Developing
+a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
+for Cyber-manufacturing for Filtertech Inc.*"
 
 **Poster Exhibit and Competition Finalist**
 - Issued by 2021 American Association of Clinical Directors (AACD) Preoperative
