@@ -54,7 +54,8 @@ Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.0196
 **Work-In-Progress**\
 [•] Machine learning guided anesthesiology resident scheduling.\
 [•] Provider scheduling in an outpatient clinic using the method of conflicting graph.\
-[•] Topological text mining in healthcare applications, e.g., medical chart review.
+[•] Natural language processing (NLP) and topological data analytics (TDA) for
+electronic health records (EHR) data.
 
 
 
