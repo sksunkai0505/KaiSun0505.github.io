@@ -30,9 +30,9 @@ improving product development lead time in an engineer-to-order manufacturing fi
 *Mathematical Modeling of Engineering Problems*, 4(2), 69–74. 
 <a href="https://www.iieta.org/journals/mmep/paper/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
 
-**Submitted/Under Revision**
+[//]: # (**Submitted/Under Revision**)
 
-[-To be updated-]
+[//]: # ([-To be updated-])
 
 **Working Paper**
 
