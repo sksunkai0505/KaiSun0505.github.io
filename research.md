@@ -48,7 +48,7 @@ kitchen appliances and unmanned aerial vehicles (UAVs)
 planning and scheduling modules for the Smart PLM system, and deployed
 these tools for the engineering design department at Filtertech, Inc. 
 [<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>].
-- Developed and deployed <a href="https://drive.google.com/file/d/1_DaEC4Vwyt7dt8QTxhAqsI5TwFEvcujm/view?usp=sharing">digital twin and flight mission configuration services</a>
+- Developed and deployed digital twin and flight mission configuration services
 for the drone fleet management solution at UsPLM, Inc., Key contributor to
 win Genius NY 2018 investment competition, **$250,000** (external, NY State and <a href="https://www.thetechgarden.com/">The Tech Garden</a>)
 [<a href="https://www.youtube.com/watch?v=jhsvqWByD-g">Demo1</a>]
