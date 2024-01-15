@@ -44,11 +44,13 @@ development based on Aras Innovator) with visual analytics tools.
 
 Professional Services
 -----
-**JOURNAL REVIEW**
-Ad-hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing*
+
+[//]: # (**JOURNAL REVIEW**)
+
+[//]: # (Ad-hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing*)
 
 **Professional Memberships and Services**\
 Member, Production and Operations Management Society (POMS) \
 Member, The Institute for Operations Research and the Management Sciences (INFORMS) \
 Member, INFORMS Health Applications Society \
-Session Chair, INFORMS Annual Meeting 2023
+Session Chair, Data-driven Decision Making in Healthcare, INFORMS Annual Meeting 2023
