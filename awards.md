@@ -17,7 +17,7 @@ author_profile: true
 
 **New York State Industrial Collaboration Award**
 - Issued by the Center for Advanced Systems and Engineering at SU, Jan 2016
-- **Co-PI**, **$60,000** awarded for the research project titled, "*Developing
+- **Key Personnel**, **$60,000** awarded for the research project titled, "*Developing
 a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
 for Cyber-manufacturing for Filtertech Inc.*"
 
