@@ -21,6 +21,12 @@ author_profile: true
 a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
 for Cyber-manufacturing for Filtertech Inc.*"
 
+**New York State Industrial Collaboration Award**
+- Issued by the Center for Advanced Systems and Engineering at SU, Jan 2016
+- **Key Personnel**, **$60,000** awarded for the research project titled, "*Developing
+a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
+for Cyber-manufacturing for Filtertech Inc.*"
+
 **Poster Exhibit and Competition Finalist**
 - Issued by 2021 American Association of Clinical Directors (AACD) Preoperative
 Leadership Summit, March 2021, Virtual
