@@ -34,7 +34,7 @@ improving product development lead time in an engineer-to-order manufacturing fi
 
 [//]: # ([-To be updated-])
 
-**Working Paper**
+**Working Paper/Under Revision**
 
 [4] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. An Algorithm Framework for the Exact Solution and
 Improved Approximations of the Maximum Weighted Independent Set Problem.\
