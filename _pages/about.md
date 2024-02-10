@@ -16,7 +16,7 @@ I am also an **Adjunct Assistant Professor** (researcher/consultant in healthcar
 
 My primary research interests center around **optimal and equitable resource planning in service systems**
 via the development and application of\
-(a) **optimization under uncertainty**\
+(a) **Optimization under uncertainty**\
 (b) **Multi-objective optimization**\
 (c) **Graph-based models and algorithms**\
 (d) **Data analytics and machine learning**
