@@ -13,7 +13,7 @@ author_profile: true
 
 <H3>RESEARCH INTERESTS</H3>
 My primary research interests center around **optimal and equitable resource planning in service systems**
-leveraging large-scale data
+leveraging large-scale datasets
 via the development and application of\
 (a) **Optimization under uncertainty**\
 (b) **Multi-objective optimization**\
