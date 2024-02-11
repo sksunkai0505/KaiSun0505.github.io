@@ -50,6 +50,7 @@ has been published in *Production and Operations Management*.
 Contact
 ------
 <ins>kai.sun@utsa.edu</ins>
+<ins>sunk1@uthscsa.edu</ins>
 
 [LinkedIn](https://www.linkedin.com/in/kai-sun-211a47bb/)
 \

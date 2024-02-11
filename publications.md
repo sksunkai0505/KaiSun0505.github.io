@@ -52,7 +52,7 @@ Planning and Scheduling Problem Using the Concept of Maximum Weighted Independen
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
 
 **Work-In-Progress**\
-[•] Machine learning guided anesthesiology resident scheduling.\
+[•] Machine learning guided anesthesiology resident and CRNA (certified registered nurse anesthetist) scheduling.\
 [•] Provider scheduling in an outpatient clinic using the method of conflicting graph.\
 [•] Natural language processing (NLP) and topological data analytics (TDA) for
 electronic health records (EHR) data.
