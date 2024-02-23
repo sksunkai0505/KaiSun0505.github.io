@@ -79,7 +79,7 @@ electronic health records (EHR) data.
 - 31st Annual POMS Conference, April 30th - May 5th, 2021
 
 "**An Integrated Optimal and Equitable Staffing Solution for Anesthesia Scheduling**"
-- 2021 American Association of Clinical Directors Perioperative Leadership Summit, March 19th, 2021
+- 2021 American Association of Clinical Directors (AACD) Perioperative Leadership Summit, March 19th, 2021
 
 "**Developing a Visual Analytics Tool for Engineering Tasks Assignment for Small and Medium-sized Manufacturing Firm**"
 - 2019 Engineering and Computer Science (ECS) Research Day, March 19th, 2019
