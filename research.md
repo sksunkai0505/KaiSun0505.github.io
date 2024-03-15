@@ -50,7 +50,9 @@ these tools for the engineering design department at Filtertech, Inc.
 [<a href="https://www.youtube.com/watch?v=dCntEIeN4oc">Engineering Analytics Toolset</a>].
 - Developed and deployed digital twin and flight mission configuration services
 for the drone fleet management solution at UsPLM, Inc., Key contributor to
-win Genius NY 2018 investment competition, **$250,000** (external, NY State and <a href="https://www.thetechgarden.com/">The Tech Garden</a>; <a href="https://drive.google.com/file/d/151M2Hg7jQUZPbdGz8IOhZriix0y1k1Ib/view?usp=drive_link">Featured in the front page of The Tech Garden</a>)
+win Genius NY 2018 investment competition, **$250,000** 
+(external, NY State and <a href="https://www.thetechgarden.com/">The Tech Garden</a>;
+<a href="https://drive.google.com/file/d/151M2Hg7jQUZPbdGz8IOhZriix0y1k1Ib/view?usp=drive_link">Featured in the front page of The Tech Garden</a>)
 [<a href="https://www.youtube.com/watch?v=jhsvqWByD-g">Demo1</a>]
 [<a href="https://www.youtube.com/watch?v=rgsTScrZLJ0">Demo2</a>]
 [<a href="https://www.youtube.com/watch?v=PCRxlNHMESQ">Demo3</a>]
