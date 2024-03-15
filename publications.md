@@ -18,7 +18,7 @@ author_profile: true
 **Accepted/Printed**
 
 [1] **Sun, K.**, Roy, A., Tobin, J. (2023). Artificial Intelligence and Machine Learning:
-Definition of Terms for Critical Care Research. Accepted by *Journal of Critical Care*.
+Definition of Terms for Critical Care Research. Accepted by *Journal of Critical Care*. <a href="https://drive.google.com/file/d/1ruQD6axIm6fbkKKv5a8OZFzxP7jr9RMA/view?usp=drive_link">Accepted version</a>
 
 [2] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
 Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*, 
@@ -45,11 +45,11 @@ the Concept of Maximum Weighted Independent Set.\
 Target: *INFORMS Journal on Computing*.
 
 [6] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
-Solution and Improved Approximation of the Maximum Weighted Independent Set Problem (arXiv:2008.01961). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01961">https://doi.org/10.48550/arXiv.2008.01961 </a>
+Solution and Improved Approximation of the Maximum Weighted Independent Set Problem (arXiv:2008.01961). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01961">https://doi.org/10.48550/arXiv.2008.01961</a>
 
 [7] **Sun, K.**, Dannenhoffer, J., Roy, U. A Novel Approach for the Process
 Planning and Scheduling Problem Using the Concept of Maximum Weighted Independent
-Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960 </a>
+Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960</a>
 
 **Work-In-Progress**\
 [•] Machine learning guided anesthesiology resident and CRNA (certified registered nurse anesthetist) scheduling.\
