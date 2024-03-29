@@ -47,7 +47,9 @@ Professional Services
 
 **JOURNAL REVIEW**
 
-Ad-hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing* • *Health Care Management Science*
+Reviewer for  • *Health Care Management Science* 
+
+[//]: # (• *European Journal of Operational Research* • *INFORMS Journal on Computing*)
 
 **Professional Memberships and Services**\
 Member, Production and Operations Management Society (POMS) \
