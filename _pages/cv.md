@@ -45,9 +45,8 @@ development based on Aras Innovator) with visual analytics tools.
 Professional Services
 -----
 
-**JOURNAL REVIEW**
-
-Reviewer for  • *Health Care Management Science* 
+**JOURNAL REVIEW**\
+• *Health Care Management Science* 
 
 [//]: # (• *European Journal of Operational Research* • *INFORMS Journal on Computing*)
 
