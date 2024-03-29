@@ -45,9 +45,9 @@ development based on Aras Innovator) with visual analytics tools.
 Professional Services
 -----
 
-[//]: # (**JOURNAL REVIEW**)
+**JOURNAL REVIEW**
 
-[//]: # (Ad-hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing*)
+Ad-hoc reviewer for  •  *European Journal of Operational Research* • *INFORMS Journal on Computing* • *Health Care Management Science*
 
 **Professional Memberships and Services**\
 Member, Production and Operations Management Society (POMS) \
