@@ -10,6 +10,9 @@ author_profile: true
 
 
 {% include base_path %}
+- Our work, "**Artificial intelligence and machine learning: Definition of terms and current concepts in critical care research**,"
+has been published in *Journal of Critical Care*. 
+<a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
 - A brief talk on our paper, **Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**, 
 has been uploaded to <a href="https://www.youtube.com/watch?v=a-VAnFn2sZw&list=PLbMZVlYA3RiAx-w-FdGUypb-3vhoIn2d7&index=1">POMS YouTube channel</a>.
 - I will be delivering the Grand Rounds presentation, entitled **Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**, 
