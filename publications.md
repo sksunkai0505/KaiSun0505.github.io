@@ -17,12 +17,13 @@ author_profile: true
 
 **Accepted/Printed**
 
-[1] **Sun, K.**, Roy, A., Tobin, J. (2023). Artificial Intelligence and Machine Learning:
-Definition of Terms for Critical Care Research. Accepted by *Journal of Critical Care*. <a href="https://drive.google.com/file/d/1ruQD6axIm6fbkKKv5a8OZFzxP7jr9RMA/view?usp=drive_link">Accepted version</a>
+[1] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
+Definition of Terms for Critical Care Research. *Journal of Critical Care*, 82(2024), 154792. 
+<a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
 
 [2] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
 Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*, 
-32, 3699-3716. 
+32(11), 3699-3716. 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 
 [3] <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
