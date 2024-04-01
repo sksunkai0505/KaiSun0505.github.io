@@ -18,7 +18,7 @@ author_profile: true
 **Accepted/Printed**
 
 [1] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
-Definition of Terms for Critical Care Research. *Journal of Critical Care*, 82(2024), 154792. 
+Definition of Terms and Current Concepts for Critical Care Research. *Journal of Critical Care*, 82(2024), 154792. 
 <a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
 
 [2] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
