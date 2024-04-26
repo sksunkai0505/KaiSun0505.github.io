@@ -33,8 +33,8 @@ The workshop videos are also available on
 
 
 <ins>Guest Lecturer</ins> in:
-- DA 6813: Data Analytics Applications (GRAD)
-- MS 4203: Business Analytics Applications (UGRAD)
+- DA 6813: Data Analytics Applications (GRAD), 2021 - 2024
+- MS 4203: Business Analytics Applications (UGRAD), 2021 - 2024
 
 **Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio** 2022 - 2023\
 <ins>Lecturer</ins> for Grand Rounds Lecture entitled, “Equitable Anesthesiologist 
