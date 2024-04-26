@@ -11,7 +11,7 @@ author_profile: true
 
 
 
-**Alvarez College of Business, UTSA** 2021 - 2023
+**Alvarez College of Business, UTSA** 2021 - 2024
 
 
 
