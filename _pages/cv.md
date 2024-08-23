@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<a href="https://drive.google.com/file/d/1XQ4o84pBBBhDNKHV7F2594wrYwlZ-NUj/view?usp=sharing">Full Curriculum Vitae</a>
+[//]: # ({% include base_path %})
+
+[//]: # (<a href="https://drive.google.com/file/d/1XQ4o84pBBBhDNKHV7F2594wrYwlZ-NUj/view?usp=sharing">Full Curriculum Vitae</a>)
 
 Academic Appointments
 -----
