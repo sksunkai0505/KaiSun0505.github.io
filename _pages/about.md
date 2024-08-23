@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 \
-I am an **Assistant Professor** in Department of Information Systems housed in **College of Engineering and Information Technology** at University of Maryland, Baltimore County (UMBC).\
-I am also an **Adjunct Assistant Professor** (researcher/consultant in healthcare operations and analytics) in Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
+I am an **Assistant Professor** in Department of Information Systems housed in **College of Engineering and Information Technology** at **University of Maryland, Baltimore County (UMBC)**.\
+I am also an Adjunct Assistant Professor (researcher/consultant in healthcare operations and analytics) in Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
 [//]: # (<span style="color:red">**I am on the job market for tenure-track faculty positions starting Fall 2024.**</span>)
 

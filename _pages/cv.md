@@ -12,13 +12,19 @@ redirect_from:
 
 Academic Appointments
 -----
-**The University of Texas at San Antonio**\
-2020 - Present: **Postdoctoral Fellow** at Department of Management Science and Statistics, 
-**Alvarez College of Business**.
+**University of Maryland, Baltimore County**\
+2024 - Present: **Assistant Professor** at Department of Information Systems, 
+**College of Engineering and Information Technology**.
 
 **The University of Texas Health Science Center at San Antonio**\
 2023 - Present: **Adjunct Assistant Professor** at Department of Anesthesiology, 
 **Joe R. & Teresa Lozano Long School of Medicine**.
+
+**The University of Texas at San Antonio**\
+2020 - 2024: **Postdoctoral Fellow** at Department of Management Science and Statistics, 
+**Alvarez College of Business**.
+
+
 
 
 Education
