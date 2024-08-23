@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 \
-I am a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in **Alvarez College of Business** at The University of Texas at San Antonio (UTSA).\
+I am an **Assistant Professor** in Department of Information Systems housed in **College of Engineering and Information Technology** at University of Maryland, Baltimore County (UMBC).\
 I am also an **Adjunct Assistant Professor** (researcher/consultant in healthcare operations and analytics) in Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
 [//]: # (<span style="color:red">**I am on the job market for tenure-track faculty positions starting Fall 2024.**</span>)
@@ -25,6 +25,7 @@ The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and provider scheduling;\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
+Before joining UMBC, I was a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in **Alvarez College of Business** at The University of Texas at San Antonio (UTSA).
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on Operations Research from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
@@ -52,12 +53,15 @@ has been published in *Production and Operations Management*.
 
 Contact
 ------
-<ins>kai.sun@utsa.edu</ins>\
+<ins>ksun1@umbc.edu</ins>\
 <ins>sunk1@uthscsa.edu</ins>
 
 [LinkedIn](https://www.linkedin.com/in/kai-sun-211a47bb/)
 \
 [ResearchGate](https://www.researchgate.net/profile/Kai-Sun-70)
 
-**Office**: 213A, Department of Anesthesiology, Joe R. & Teresa Lozano Long School of Medicine, UT Health San Antonio
-7703 Floyd Curl Dr, MC 7838, San Antonio, TX 78229
+**Office**:\
+Room 401, Information Technology & Engineering Bldg\
+Department of Information Systems, College of Engineering and Information Technology\
+University of Maryland, Baltimore County\
+1000 Hilltop Circle, Baltimore, MD 21250
