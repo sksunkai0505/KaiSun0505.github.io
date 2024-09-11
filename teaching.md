@@ -7,9 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+**College of Engineering and Information Technology, UMBC** 2024 - Present
 
-
-
+IS 603 Decision Making Support Systems
 
 **Alvarez College of Business, UTSA** 2021 - 2024
 
