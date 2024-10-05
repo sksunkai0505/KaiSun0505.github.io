@@ -10,6 +10,8 @@ author_profile: true
 
 
 {% include base_path %}
+- I will be presenting our work on achieving workload equity in physicians' schedules at the 2024 INFORMS Annual Meeting, held October 20-23 in Seattle, WA. The presentation will take place during the "Decision-Making in Healthcare Systems" session, co-listed with the INFORMS Diversity, Equity, and Inclusion (DEI) Committee.
+- I started as a Tenure-Track Assistant Professor in the Department of Information Systems, within the College of Engineering and Information Technology at UMBC, in Fall 2024.
 - Our work, "**Artificial intelligence and machine learning: Definition of terms and current concepts in critical care research**,"
 has been published in *Journal of Critical Care*. 
 <a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
