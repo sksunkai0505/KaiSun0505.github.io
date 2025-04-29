@@ -26,7 +26,7 @@ The examples of the applications includes:\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
 Before joining UMBC, I was a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in **Alvarez College of Business** at The University of Texas at San Antonio (UTSA).
-I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on Operations Research from Syracuse University in 2020 and 2015, respectively.
+I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on **Operations Research** from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
 <span style="color:red">**Our group is looking for undergraduate, master, Ph.D. and visiting students.**</span> Please contact me at <ins>ksun1@umbc.edu</ins>, if you are interested.
