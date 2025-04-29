@@ -33,6 +33,10 @@ I received a B.E. in Automotive Engineering from Hefei University of Technology 
 
 Latest News
 -------
+- Anjali Jha Wins Student Poster Award at at COEIT Research Day 2025\
+Congratulations to Anjali Jha! Her work highlights the impactful contributions of our team in advancing data-driven solutions for real-world challenges.
+- Anjali Jha, out teammate, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
+ Titled, “Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach,” which explores how machine learning, LLMs, and robust optimization can be ensemble-modeled to address real-world needs in healthcare resource planning, i.e., considering resource uncertainty and incorporating providers’ clinical and lifestyle preferences into the work schedules to promote job satisfaction and well-being.
 - I will be presenting our work on achieving workload equity in physicians' schedules at the 2024 INFORMS Annual Meeting, held October 20-23 in Seattle, WA. The presentation will take place during the "Decision-Making in Healthcare Systems" session, co-listed with the INFORMS Diversity, Equity, and Inclusion (DEI) Committee.
 - I started as a Tenure-Track Assistant Professor in the Department of Information Systems, within the College of Engineering and Information Technology at UMBC, in Fall 2024.
 - Our work, "**Artificial intelligence and machine learning: Definition of terms and current concepts in critical care research**,"
