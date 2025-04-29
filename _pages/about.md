@@ -33,8 +33,7 @@ I received a B.E. in Automotive Engineering from Hefei University of Technology 
 
 Latest News
 -------
-- **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025.\
-Congratulations to Anjali! Her work highlights the impactful contributions of our team in advancing data-driven solutions for real-world challenges.
+- **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to Anjali!
 - **Anjali Jha**, our master's student, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
  Titled, “**Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach**,” which explores how machine learning, LLMs, and robust optimization can be ensemble-modeled to address real-world needs in healthcare resource planning, i.e., considering resource uncertainty and incorporating providers’ clinical and lifestyle preferences into the work schedules to promote job satisfaction and well-being.
 - I will be presenting our work on achieving workload equity in physicians' schedules at the 2024 INFORMS Annual Meeting, held October 20-23 in Seattle, WA. The presentation will take place during the "Decision-Making in Healthcare Systems" session, co-listed with the INFORMS Diversity, Equity, and Inclusion (DEI) Committee.
