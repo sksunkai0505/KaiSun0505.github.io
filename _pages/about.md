@@ -25,7 +25,7 @@ The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and provider scheduling;\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
-Before joining UMBC, I was a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in **Alvarez College of Business** at The University of Texas at San Antonio (UTSA).
+Before joining UMBC, I was a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in **Alvarez College of Business** at The University of Texas at San Antonio (**UTSA**).
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on **Operations Research** from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
@@ -33,8 +33,7 @@ I received a B.E. in Automotive Engineering from Hefei University of Technology 
 
 Latest News
 -------
-- Our Anesthesiologist Scheduling work received UTSA **Honorable Mention Research Award** on April 30th, 2025.\
-This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business.
+- Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award** on April 30th, 2025. This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business.
 - **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to Anjali!
 - **Anjali Jha**, our master's student, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
  Titled, “**Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach**,” which explores how machine learning, LLMs, and robust optimization can be ensemble-modeled to address real-world needs in healthcare resource planning, i.e., considering resource uncertainty and incorporating providers’ clinical and lifestyle preferences into the work schedules to promote job satisfaction and well-being.
