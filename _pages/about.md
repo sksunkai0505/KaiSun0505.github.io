@@ -33,6 +33,8 @@ I received a B.E. in Automotive Engineering from Hefei University of Technology 
 
 Latest News
 -------
+- Our Anesthesiologist Scheduling work received UTSA **Honorable Mention Research Award** on April 30th, 2025.\
+This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business.
 - **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to Anjali!
 - **Anjali Jha**, our master's student, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
  Titled, “**Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach**,” which explores how machine learning, LLMs, and robust optimization can be ensemble-modeled to address real-world needs in healthcare resource planning, i.e., considering resource uncertainty and incorporating providers’ clinical and lifestyle preferences into the work schedules to promote job satisfaction and well-being.
