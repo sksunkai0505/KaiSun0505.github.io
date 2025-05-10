@@ -53,6 +53,7 @@ Professional Services
 -----
 
 **Journal Review**\
+• *Journal of Nursing Management* 
 • *Health Care Management Science* 
 
 [//]: # (• *European Journal of Operational Research* • *INFORMS Journal on Computing*)
