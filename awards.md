@@ -10,6 +10,8 @@ author_profile: true
 
 
 {% include base_path %}
+**UMBC Strategic Awards for Research Transitions (START)** 2025
+- **PI**, **$25,000**, awarded for the research project titled, “*Machine Learning Guided Clinician Well-being Metrics and Scheduling Tools Combining Electronic Health Record (EHR) Data and Surveys*”
 
 **AMTEC (Advanced Manufacturing, Thermal, and Environmental Controls) SyracuseCoE Industry Collaboration Summer Internship Award**
 - Issued by the SyracuseCoE (New York State's Center of Excellence in Environmental and Energy Systems), Syracuse University, May 2016
