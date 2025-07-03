@@ -10,7 +10,7 @@ author_profile: true
 
 
 {% include base_path %}
-- Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award** on April 30th, 2025.\
+- Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award**.\
 This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business.
 - **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to Anjali!
 - **Anjali Jha**, our master's student, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
