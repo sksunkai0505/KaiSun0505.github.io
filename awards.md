@@ -28,10 +28,10 @@ for Cyber-manufacturing for Filtertech Inc.*"
 
 ## Awards
 **UTSA Honorable Mention Research Award**, 2025 award cycle 
-- for the work titled, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**"
+- for the work titled, "Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming"
 
 **Student Poster Award**, **Anjali Jha** (master's student), COEIT Research Day 2025. 
-- for the work titled, **Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach**
+- for the work titled, "Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach"
 
 **Poster Exhibit and Competition Finalist**
 - Issued by 2021 American Association of Clinical Directors (AACD) Preoperative
