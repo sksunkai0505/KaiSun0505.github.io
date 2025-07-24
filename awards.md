@@ -10,7 +10,7 @@ author_profile: true
 
 
 {% include base_path %}
-\
+
 
 ## Funding
 **UMBC Strategic Awards for Research Transitions (START)**
