@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 \
 
-# Funding
+## Funding
 **UMBC Strategic Awards for Research Transitions (START)**
 - **PI**, **$25,000**, 2025 - 2026, awarded for the research project titled, “*Machine Learning Guided Clinician Well-being Metrics and Scheduling Tools Combining Electronic Health Record (EHR) Data and Surveys*”
 
@@ -26,7 +26,7 @@ author_profile: true
 a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
 for Cyber-manufacturing for Filtertech Inc.*"
 
-# Awards
+## Awards
 **UTSA Honorable Mention Research Award**, 2025 award cycle 
 - for the work titled, "**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**"
 
