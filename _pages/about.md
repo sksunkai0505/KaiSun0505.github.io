@@ -29,7 +29,7 @@ Before joining UMBC, I was a **Postdoctoral Fellow** in Department of Management
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on **Operations Research** from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
-<span style="color:red">**Our group is looking for undergraduate, master, Ph.D. and visiting students.**</span> Please contact me at <ins>ksun1@umbc.edu</ins> with your CV, if you are interested.
+<span style="color:red">**Our group is looking for self-motivated undergraduate, master, Ph.D. and visiting students.**</span> Please contact me at <ins>ksun1@umbc.edu</ins> with your CV, if you are interested.
 
 Latest News
 -------
