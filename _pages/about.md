@@ -30,7 +30,7 @@ I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus o
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
 <span style="color:red">**Our group is looking for self-motivated undergraduate, master, Ph.D. and visiting students.**</span> If you are interested, please email your CV to <ins>ksun1@umbc.edu</ins>.
-For more details, please see the <a href="https://sksunkai0505.github.io/KaiSun0505.github.io//opportunity/">Opportunities</a> page.
+For more details, please see the <a href="https://sksunkai0505.github.io/KaiSun0505.github.io//opportunity/">Research Group</a> page.
 
 Latest News
 -------
