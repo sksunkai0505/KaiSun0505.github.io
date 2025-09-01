@@ -9,7 +9,7 @@ author_profile: true
 
 **College of Engineering and Information Technology, UMBC** 2024 - Present
 
-IS 428 Data Mining and It Applications, Fall 2025 
+IS 428 Data Mining and It Applications, Fall 2025\
 IS 603 Decision Making Support Systems, Fall 2024 (4.3/5), Spring 2025 (4.2/5) 
 
 **Alvarez College of Business, UTSA** 2021 - 2024
