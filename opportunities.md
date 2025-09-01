@@ -10,15 +10,15 @@ author_profile: true
 
 Student Opportunities
 -------
-Our group welcomes <span style="color:red">**self-motivated**</span> undergraduate, master’s, Ph.D., and visiting students. 
-We seek individuals who are ready to show <span style="color:red">**full dedication**</span> to their research, <span style="color:red">**take ownership**</span>, and lead research activities with <span style="color:red">**independence and creativity**</span>.
+Our group welcomes **self-motivated** undergraduate, master’s, Ph.D., and visiting students. 
+We seek individuals who are ready to show **full dedication** to their research, **take ownership**, and lead research activities with **independence and creativity**.
 
 We value scholars who pay close attention to detail, demonstrate professionalism by being timely, responsive, and supportive in collaborations, 
-and ensure their research is <span style="color:red">**tangible, robust, and held to the highest standards**</span>.
+and ensure their research is **tangible, robust, and held to the highest standards**.
 
-Students in the group have the opportunity to grow as independent researchers, contribute to high-quality publications, and present their work at leading conferences.
+Students in our group have the opportunity to grow as independent researchers, contribute to high-quality publications, and present their work at leading conferences.
 
-<span style="color:red">**Funding opportunities are available**</span> under specific conditions and may vary by project.
+**Funding opportunities are available** under specific conditions and may vary by projects.
 
 If you are interested, please email your CV and research interests to <ins>ksun1@umbc.edu</ins>.
 
