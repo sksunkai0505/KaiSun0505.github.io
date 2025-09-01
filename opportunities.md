@@ -1,6 +1,6 @@
 ---
 
-title: "Students and Oppotunities"
+title: "Research Group"
 
 permalink: /opportunity/
 
