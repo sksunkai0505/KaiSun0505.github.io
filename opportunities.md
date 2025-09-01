@@ -20,7 +20,7 @@ Students in our group have the opportunity to grow as independent researchers, c
 
 **Funding opportunities are available** under specific conditions and may vary by projects.
 
-If you are interested, please email your CV and research interests to <ins>ksun1@umbc.edu</ins>.
+If you are interested, please email your **CV** and **research interests** to <ins>ksun1@umbc.edu</ins>.
 
 Current Students
 -------
