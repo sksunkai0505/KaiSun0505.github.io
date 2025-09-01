@@ -2,7 +2,7 @@
 
 title: "Oppotunities"
 
-permalink: /oppotunity/
+permalink: /opportunity/
 
 author_profile: true
 
