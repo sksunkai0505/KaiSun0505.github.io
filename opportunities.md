@@ -11,12 +11,11 @@ author_profile: true
 Student Opportunities
 -------
 We welcome **self-motivated** students at all levels who are ready to **take ownership** of their work and 
-grow as **independent researchers**. Our group values **independence**, **creativity**, **professionalism**, 
-and **attention to detail**. We group provides the guidance and opportunities to publish/present at 
-leading journals and conferences, collaborate with leading healthcare institutions and industry partners, 
-and **prepare students to excel in their careers**.
+grow as **independent researchers**. Our group values **independence**, **creativity**, **professionalism**, **attention to detail**, and **tangible outcomes**. Our group provides the guidance and opportunities to publish/present at 
+leading journals/conferences, collaborate with nationwide healthcare institutions and industry partners, 
+and **prepare students to excel in their later careers**.
 
-**Funding opportunities**, e.g., hourly paid positions in Spring, Fall, and Summer semesters, and GRAs at master's and Ph.D. levels, **are available** subject to 
+**Funded opportunities**, e.g., hourly paid positions in Spring, Fall, and Summer semesters, and GRAs at master's and Ph.D. levels, **are available** subject to 
 specific projects and budgets, student performance, etc.
 
 If you are interested, please email your **CV** and **research interests** to <ins>ksun1@umbc.edu</ins>.
