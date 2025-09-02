@@ -19,10 +19,10 @@ author_profile: true
 &nbsp;&nbsp;&nbsp;&nbsp;• **PI**, awarded for the research project titled, “*Machine Learning Guided Clinician Well-being Metrics and Scheduling Tools Combining Electronic Health Record (EHR) Data and Surveys*”\
 **AMTEC (Advanced Manufacturing, Thermal, and Environmental Controls) SyracuseCoE Industry Collaboration Summer Internship Award**\
 &nbsp;&nbsp;&nbsp;&nbsp;• Issued by the SyracuseCoE (New York State's Center of Excellence in Environmental and Energy Systems), Syracuse University, May 2016\
-&nbsp;&nbsp;&nbsp;&nbsp;• **Co-PI**, **$5,000**, awarded for the research project titled, “*Development of Smart PLM Platform for Filtertech, Inc.*”\
+&nbsp;&nbsp;&nbsp;&nbsp;• **Co-PI**, awarded for the research project titled, “*Development of Smart PLM Platform for Filtertech, Inc.*”\
 **New York State Industrial Collaboration Award**\
 &nbsp;&nbsp;&nbsp;&nbsp;• Issued by the Center for Advanced Systems and Engineering at SU, Jan 2016\
-&nbsp;&nbsp;&nbsp;&nbsp;• **Key Personnel**, **$60,000** awarded for the research project titled, "*Developing
+&nbsp;&nbsp;&nbsp;&nbsp;• **Key Personnel**, awarded for the research project titled, "*Developing
 a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
 for Cyber-manufacturing for Filtertech Inc.*"
 
