@@ -1,6 +1,6 @@
 ---
 
-title: "Fundings and Awards"
+title: "Fundings and Honors"
 
 permalink: /awards/
 
@@ -26,7 +26,7 @@ author_profile: true
 a Unified PLM Platform for Smart Manufacturing Systems, an Essential Tool
 for Cyber-manufacturing for Filtertech Inc.*"
 
-## Awards
+## Honors
 **UTSA Honorable Mention Research Award**, 2025 award cycle\
 &nbsp;&nbsp;&nbsp;&nbsp;• for the work titled, "Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming"\
 **Poster Exhibit and Competition Finalist**\
