@@ -9,27 +9,27 @@ redirect_from:
 ---
 
 \
-I am an **Assistant Professor** in **Department of Information Systems** housed in College of Engineering and Information Technology (COEIT) at **University of Maryland, Baltimore County (UMBC)**.\
+I am an **Assistant Professor** in **Department of Information Systems** housed in **College of Engineering and Information Technology (COEIT)** at **University of Maryland, Baltimore County (UMBC)**.\
 I am also an Adjunct Assistant Professor (researcher/consultant in healthcare operations and analytics) in Department of Anesthesiology at The University of Texas Health Science Center at San Antonio (UTHealthSA).
 
 [//]: # (<span style="color:red">**I am on the job market for tenure-track faculty positions starting Fall 2024.**</span>)
 
 My primary research interests center around **optimal and equitable resource planning in service systems**
-via the development and application of\
+via:\
 (a) **Optimization under uncertainty**\
 (b) **Multi-objective optimization**\
 (c) **Graph-based models and algorithms**\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
-(1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and provider scheduling;\
+(1) In **healthcare**: clinician wellbeing, operating rooms and intensive care units management, data-driven patient and provider scheduling;\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
-Before joining UMBC, I was a **Postdoctoral Fellow** in Department of Management Science and Statistics housed in **Alvarez College of Business** at The University of Texas at San Antonio (**UTSA**).
+Before joining UMBC, I was a Postdoctoral Fellow in Department of Management Science and Statistics housed in Alvarez College of Business at The University of Texas at San Antonio (UTSA).
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on **Operations Research** from Syracuse University in 2020 and 2015, respectively.
 I received a B.E. in Automotive Engineering from Hefei University of Technology in 2013.
 
-<span style="color:red">**Our group is looking for self-motivated undergraduate, master, Ph.D. and visiting students.**</span> If you are interested, please email your CV to <ins>ksun1@umbc.edu</ins>.
+<span style="color:red">Our group is actively looking for **self-motivated undergraduate, master, Ph.D. and visiting students.**</span> If you are interested, please email your CV to <ins>ksun1@umbc.edu</ins>.
 For more details, please see the <a href="https://sksunkai0505.github.io/KaiSun0505.github.io//opportunity/">Research Group</a> page.
 
 Latest News
