@@ -15,6 +15,8 @@ author_profile: true
 
 <H3>PUBLICATIONS</H3>
 
+asterisk (*) denotes my advisees.
+
 **Accepted/Printed**
 
 [1] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
@@ -31,26 +33,31 @@ improving product development lead time in an engineer-to-order manufacturing fi
 *Mathematical Modeling of Engineering Problems*, 4(2), 69–74. 
 <a href="https://www.iieta.org/journals/mmep/paper/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
 
-[//]: # (**Submitted/Under Revision**)
+**Submitted**
+
+[4] Jha, A.&#42;, Chen, W.&#42; Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-
+Optimize Approach. *Submitted.*
+
+
 
 [//]: # ([-To be updated-])
 
 **Working Paper/Under Revision**
 
-[4] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. An Algorithm Framework for the Exact Solution and
+[5] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. An Algorithm Framework for the Exact Solution and
 Improved Approximations of the Maximum Weighted Independent Set Problem.
 
 [//]: # (Target: *INFORMS Journal on Computing*.)
 
-[5] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. Solving Resource Constrained Scheduling Problems Using 
+[6] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. Solving Resource Constrained Scheduling Problems Using 
 the Concept of Maximum Weighted Independent Set.
 
 [//]: # (Target: *INFORMS Journal on Computing*.)
 
-[6] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
+[7] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
 Solution and Improved Approximation of the Maximum Weighted Independent Set Problem (arXiv:2008.01961). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01961">https://doi.org/10.48550/arXiv.2008.01961</a>
 
-[7] **Sun, K.**, Dannenhoffer, J., Roy, U. A Novel Approach for the Process
+[8] **Sun, K.**, Dannenhoffer, J., Roy, U. A Novel Approach for the Process
 Planning and Scheduling Problem Using the Concept of Maximum Weighted Independent
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960</a>
 
