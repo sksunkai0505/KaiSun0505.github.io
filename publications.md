@@ -69,30 +69,51 @@ electronic health records (EHR) data.
 
 
 
-<H3>SELECTED PRESENTATIONS</H3>
-"**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**"
-- 2023 INFORMS Annual Meeting, October 18th, 2023
-- Podium Presentation, at 9th annual San Antonio Military Health and Universities Research Forum (SURF), June 15th, 2023
-- Production and Operations Management Society (POMS), 33rd Annual Conference, May 23rd, 2023
-- Los Datos Conference 2023, UTSA School of Data Science, April 20th, 2023
-- 2022 INFORMS Annual Meeting, October 16th, 2022
-- 10th Annual San Antonio Postdoctoral Research Forum at UTHealthSA, September 20th, 2022
-- 32nd Annual POMS Conference, April 22nd, 2022
-- Seminar, Department of Management Science and Statistics at UTSA, April 22nd, 2022
-- 2022 Research Symposium at UTHealthSA, April 18th, 2022
+[//]: # (<H3>SELECTED PRESENTATIONS</H3>)
 
-"**Optimal Physician Scheduling Solution Using the Method of Maximum Weighted Independent Set (MWIS)**"
-- 32nd Annual POMS Conference, April 22nd, 2022
+[//]: # ("**Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**")
 
-"**Optimal and Equitable Staffing Solutions for Anesthesiologist Scheduling**"
-- 2021 INFORMS Annual Meeting, October 27th, 2021
-- 31st Annual POMS Conference, April 30th - May 5th, 2021
+[//]: # (- 2023 INFORMS Annual Meeting, October 18th, 2023)
 
-"**An Integrated Optimal and Equitable Staffing Solution for Anesthesia Scheduling**"
-- 2021 American Association of Clinical Directors (AACD) Perioperative Leadership Summit, March 19th, 2021
+[//]: # (- Podium Presentation, at 9th annual San Antonio Military Health and Universities Research Forum &#40;SURF&#41;, June 15th, 2023)
 
-"**Developing a Visual Analytics Tool for Engineering Tasks Assignment for Small and Medium-sized Manufacturing Firm**"
-- 2019 Engineering and Computer Science (ECS) Research Day, March 19th, 2019
+[//]: # (- Production and Operations Management Society &#40;POMS&#41;, 33rd Annual Conference, May 23rd, 2023)
 
-"**Aras Innovator in Engineering Education and Research**"
-- Invited Presentation, Aras Community Event (ACE) US 2018, Premier PLM conference by Aras Innovator, March 21st, 2018
+[//]: # (- Los Datos Conference 2023, UTSA School of Data Science, April 20th, 2023)
+
+[//]: # (- 2022 INFORMS Annual Meeting, October 16th, 2022)
+
+[//]: # (- 10th Annual San Antonio Postdoctoral Research Forum at UTHealthSA, September 20th, 2022)
+
+[//]: # (- 32nd Annual POMS Conference, April 22nd, 2022)
+
+[//]: # (- Seminar, Department of Management Science and Statistics at UTSA, April 22nd, 2022)
+
+[//]: # (- 2022 Research Symposium at UTHealthSA, April 18th, 2022)
+
+[//]: # ()
+[//]: # ("**Optimal Physician Scheduling Solution Using the Method of Maximum Weighted Independent Set &#40;MWIS&#41;**")
+
+[//]: # (- 32nd Annual POMS Conference, April 22nd, 2022)
+
+[//]: # ()
+[//]: # ("**Optimal and Equitable Staffing Solutions for Anesthesiologist Scheduling**")
+
+[//]: # (- 2021 INFORMS Annual Meeting, October 27th, 2021)
+
+[//]: # (- 31st Annual POMS Conference, April 30th - May 5th, 2021)
+
+[//]: # ()
+[//]: # ("**An Integrated Optimal and Equitable Staffing Solution for Anesthesia Scheduling**")
+
+[//]: # (- 2021 American Association of Clinical Directors &#40;AACD&#41; Perioperative Leadership Summit, March 19th, 2021)
+
+[//]: # ()
+[//]: # ("**Developing a Visual Analytics Tool for Engineering Tasks Assignment for Small and Medium-sized Manufacturing Firm**")
+
+[//]: # (- 2019 Engineering and Computer Science &#40;ECS&#41; Research Day, March 19th, 2019)
+
+[//]: # ()
+[//]: # ("**Aras Innovator in Engineering Education and Research**")
+
+[//]: # (- Invited Presentation, Aras Community Event &#40;ACE&#41; US 2018, Premier PLM conference by Aras Innovator, March 21st, 2018)
