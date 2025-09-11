@@ -35,8 +35,8 @@ improving product development lead time in an engineer-to-order manufacturing fi
 
 **Submitted**
 
-[4] Jha, A.&#42;, Chen, W.&#42; Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-
-Optimize Approach. *Submitted.*
+[4] Jha, A.&#42;, Chen, W.&#42; Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
+*Submitted.*
 
 
 
