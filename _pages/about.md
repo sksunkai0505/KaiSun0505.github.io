@@ -34,6 +34,7 @@ For more details, please see the <a href="https://sksunkai0505.github.io/KaiSun0
 
 Latest News
 -------
+- **Anjali Jha**, our master's student, wins **Registration Grant** for attending and presenting her work at 2025 INFORMS Annual Meeting. Congratulations to Anjali!
 - Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award**. This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business for the year 2025 award cycle.
 - **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to Anjali!
 - **Anjali Jha**, our master's student, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
