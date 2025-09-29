@@ -33,8 +33,9 @@ improving product development lead time in an engineer-to-order manufacturing fi
 *Mathematical Modeling of Engineering Problems*, 4(2), 69–74. 
 <a href="https://www.iieta.org/journals/mmep/paper/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
 
-[4] &#42;Chen, W., &#42;Jha, A., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
-Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
+[//]: # ([4] &#42;Chen, W., &#42;Jha, A., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** &#40;2025&#41; LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. )
+
+[//]: # (Accepted to *IEEE ICDM 2025 Workshops Proceedings &#40;IEEE Computer Society Press&#41;*.)
 
 
 [//]: # (**Submitted**)
