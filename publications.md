@@ -42,12 +42,12 @@ Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*
 
 **Working Paper/Under Revision**
 
-[5] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. An Algorithm Framework for the Exact Solution and
+[5] **Sun, K.** An Algorithm Framework for the Exact Solution and
 Improved Approximations of the Maximum Weighted Independent Set Problem.
 
 [//]: # (Target: *INFORMS Journal on Computing*.)
 
-[6] **Sun, K.**, Sun, M., Dannenhoffer, J., Rosinia, F., Roy, A. Solving Resource Constrained Scheduling Problems Using 
+[6] **Sun, K.** Solving Resource Constrained Scheduling Problems Using 
 the Concept of Maximum Weighted Independent Set.
 
 [//]: # (Target: *INFORMS Journal on Computing*.)
