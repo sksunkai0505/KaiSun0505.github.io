@@ -19,22 +19,23 @@ asterisk (*) denotes my advisees.
 
 **Accepted/Printed**
 
-[1] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
+[1] &#42;Jha, A., &#42;Chen, W., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
+Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
+
+[2] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
 Definition of Terms and Current Concepts for Critical Care Research. *Journal of Critical Care*, 82(2024), 154792. 
 <a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
 
-[2] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
+[3] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
 Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*, 
 32(11), 3699-3716. 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 
-[3] <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
+[4] <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
 improving product development lead time in an engineer-to-order manufacturing firm.
 *Mathematical Modeling of Engineering Problems*, 4(2), 69–74. 
 <a href="https://www.iieta.org/journals/mmep/paper/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
 
-[4] &#42;Jha, A., &#42;Chen, W., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
-Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
 
 
 [//]: # (**Submitted**)
