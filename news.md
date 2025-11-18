@@ -10,6 +10,11 @@ author_profile: true
 
 
 {% include base_path %}
+- **Wanqing Chen**, our Ph.D. student, presented her work, *Virtual Clinic Design Based on Unity 3D and Machine Learning* and
+*LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach*
+at IEEE Baltimore Technical & Professional Development Colloquium on November 15, 2025.\
+- **Wanqing Chen**, our Ph.D. student, presented our work, *LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach* 
+at 25th IEEE International Conference on Data Mining (ICDM 2025) Benchmarking, Performance Tuning and Optimization for Big Data Analytics and Big Models (BPOD 2025) workshop on November 12, 2025.\
 - **Anjali Jha**, our master's student, wins **Registration Grant** for attending and presenting her work at 2025 INFORMS Annual Meeting. Congratulations to Anjali!
 - Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award**.\
 This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business for the year 2025 award cycle.
