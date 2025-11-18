@@ -28,7 +28,7 @@ for Cyber-manufacturing for Filtertech Inc.*"
 
 ## Honors
 **UTSA Honorable Mention Research Award**, 2025 award cycle\
-&nbsp;&nbsp;&nbsp;&nbsp;• for the work titled, "Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming"\
+&nbsp;&nbsp;&nbsp;&nbsp;• for the work titled, **Equitable Anesthesiologist Scheduling under Demand Uncertainty Using Multi-Objective Programming**\
 **Poster Exhibit and Competition Finalist**\
 &nbsp;&nbsp;&nbsp;&nbsp;• Issued by 2021 American Association of Clinical Directors (AACD) Preoperative
 Leadership Summit, March 2021, Virtual\
