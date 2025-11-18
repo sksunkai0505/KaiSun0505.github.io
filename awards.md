@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## Funding
-**UMBC Supplement for Undergraduate Research Experiences (SURE)**, Fall 2025\
+**UMBC Supplement for Undergraduate Research Experiences (SURE)**, Fall 2025 - Spring 2026\
 &nbsp;&nbsp;&nbsp;&nbsp;• **PI**, mentoring undergraduate researcher: Patrina Pun, BS in Information Systems\
 **UMBC Strategic Awards for Research Transitions (START)**, 2025 - 2026\
 &nbsp;&nbsp;&nbsp;&nbsp;• **PI**, awarded for the research project titled, “*Machine Learning Guided Clinician Well-being Metrics and Scheduling Tools Combining Electronic Health Record (EHR) Data and Surveys*”\
