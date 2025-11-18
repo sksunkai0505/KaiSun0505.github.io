@@ -39,7 +39,7 @@ Latest News
 at IEEE Baltimore Technical & Professional Development Colloquium on November 15, 2025 at UMBC, Baltimore, MD, USA.
 - **Wanqing Chen**, our Ph.D. student, presented our work, *LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach* 
 at 25th IEEE International Conference on Data Mining (ICDM 2025) Benchmarking, Performance Tuning and Optimization for Big Data Analytics and Big Models (BPOD 2025) workshop on November 12, 2025 in Washington DC, USA.
-- Dr. Kai Sun presented his work, *Solving Process Planning and Scheduling Problems Using the Method of Maximum Weighted Independent Set*, at 2025 INFORMS Annual Meeting 
+- **Dr. Kai Sun** presented his work, *Solving Process Planning and Scheduling Problems Using the Method of Maximum Weighted Independent Set*, at 2025 INFORMS Annual Meeting 
 on October 29, 2025 in Atlanta, GA, USA.
 - Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award**. This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business for the year 2025 award cycle.
 
