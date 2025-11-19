@@ -24,7 +24,7 @@ Current Students
 -------
 **Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **IS Department Travel Award** for attending and presenting at 2025 ICDM.\
-**Patrina Pun**, B.S. student, Information Systems, Summer 2025-present\
+**Patrina Pun**, BS student, Information Systems, Summer 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **UMBC SURE Award**, Fall 2025 - Spring 2026.\
 **Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present
 
@@ -33,9 +33,9 @@ Current Students
 
 Alumni
 -------
-**Anjali Jha**, M.P.S. in Data Science, Fall 2024-Nov 2025\
+**Anjali Jha**, MPS. student in Data Science, Fall 2024-Nov 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Registration Grant** for 2025 INFORMS Annual Meeting.\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Student Poster Award** at CoEIT Research Day 2025.\
-**Reverny Hsu**, [LinkedIn](https://www.linkedin.com/in/tienyu-hsu/), M.S. in Statistics and Data Science (UTSA), Fall 2023-Fall 2024\
+**Reverny Hsu**, [LinkedIn](https://www.linkedin.com/in/tienyu-hsu/), MS in Statistics and Data Science (UTSA), Fall 2023-Fall 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;• First job placement, **Investment Risk Analyst** at Victory Capital.
 
