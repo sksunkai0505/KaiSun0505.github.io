@@ -22,11 +22,11 @@ If you are interested, please email your **CV** and **research interests** to <i
 
 Current Students
 -------
-**Wanqing Chen**, Ph.D. in Information Systems, Fall 2025-present\
+**Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **IS Department Travel Award** for attending and presenting at 2025 ICDM.\
-**Patrina Pun**, B.S. in Information Systems, Summer 2025-present\
+**Patrina Pun**, B.S. student, Information Systems, Summer 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **UMBC SURE Award**, Fall 2025 - Spring 2026.\
-**Pavan Raj Ravi**, Ph.D. in Information Systems, Spring 2025-present
+**Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present
 
 
 [//]: # (- [LinkedIn]&#40;https://www.linkedin.com/in/anjali-jha-069aa6184/&#41;)
