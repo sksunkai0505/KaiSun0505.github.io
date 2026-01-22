@@ -19,19 +19,22 @@ asterisk (*) denotes my advisees.
 
 **Accepted/Printed**
 
-[1] &#42;Jha, A., &#42;Chen, W., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
+[1] Guan, T., Yu, Z., Bhosle, P., Li, C., **Sun, K.**, & Rao, M. B. (2026). Why Our Youth Vape?—A Trend Analysis Based on Cross-Sectional
+Annual Surveys of Middle and High School Students in the U.S. Medicina, 62(1), 223. <a href="https://doi.org/10.3390/medicina62010223">https://doi.org/10.3390/medicina62010223</a>
+
+[2] &#42;Jha, A., &#42;Chen, W., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
 Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
 
-[2] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
+[3] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
 Definition of Terms and Current Concepts for Critical Care Research. *Journal of Critical Care*, 82(2024), 154792. 
 <a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
 
-[3] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
+[4] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
 Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*, 
 32(11), 3699-3716. 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 
-[4] <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
+[5] <b>Sun, K.</b>, Li, Y., Roy, U. (2017). A PLM-based data analytics approach for
 improving product development lead time in an engineer-to-order manufacturing firm.
 *Mathematical Modeling of Engineering Problems*, 4(2), 69–74. 
 <a href="https://www.iieta.org/journals/mmep/paper/10.18280/mmep.040201">https://doi.org/10.18280/mmep.040201</a>
@@ -43,20 +46,20 @@ improving product development lead time in an engineer-to-order manufacturing fi
 
 **Working Paper/Under Revision**
 
-[5] **Sun, K.** An Algorithm Framework for the Exact Solution and
+[6] **Sun, K.** An Algorithm Framework for the Exact Solution and
 Improved Approximations of the Maximum Weighted Independent Set Problem.
 
 [//]: # (Target: *INFORMS Journal on Computing*.)
 
-[6] **Sun, K.** Solving Resource Constrained Scheduling Problems Using 
+[7] **Sun, K.** Solving Resource Constrained Scheduling Problems Using 
 the Concept of Maximum Weighted Independent Set.
 
 [//]: # (Target: *INFORMS Journal on Computing*.)
 
-[7] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
+[8] **Sun, K.**, Dannenhoffer, J., Roy, U. An Algorithm Framework for the Exact
 Solution and Improved Approximation of the Maximum Weighted Independent Set Problem (arXiv:2008.01961). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01961">https://doi.org/10.48550/arXiv.2008.01961</a>
 
-[8] **Sun, K.**, Dannenhoffer, J., Roy, U. A Novel Approach for the Process
+[9] **Sun, K.**, Dannenhoffer, J., Roy, U. A Novel Approach for the Process
 Planning and Scheduling Problem Using the Concept of Maximum Weighted Independent
 Set (arXiv:2008.01960). arXiv. <a href="https://doi.org/10.48550/arXiv.2008.01960">https://doi.org/10.48550/arXiv.2008.01960</a>
 
