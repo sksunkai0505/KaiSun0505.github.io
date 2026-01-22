@@ -20,7 +20,7 @@ asterisk (*) denotes my advisees.
 **Accepted/Printed**
 
 [1] Guan, T., Yu, Z., Bhosle, P., Li, C., **Sun, K.**, & Rao, M. B. (2026). Why Our Youth Vape?—A Trend Analysis Based on Cross-Sectional
-Annual Surveys of Middle and High School Students in the U.S. Medicina, 62(1), 223. <a href="https://doi.org/10.3390/medicina62010223">https://doi.org/10.3390/medicina62010223</a>
+Annual Surveys of Middle and High School Students in the U.S. *Medicina*, 62(1), 223. <a href="https://doi.org/10.3390/medicina62010223">https://doi.org/10.3390/medicina62010223</a>
 
 [2] &#42;Jha, A., &#42;Chen, W., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
 Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
