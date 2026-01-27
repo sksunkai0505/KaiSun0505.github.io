@@ -23,7 +23,7 @@ asterisk (*) denotes my advisees.
 Annual Surveys of Middle and High School Students in the U.S. *Medicina* (IF 2.4, CiteScore Q1), 62(1), 223. <a href="https://doi.org/10.3390/medicina62010223">https://doi.org/10.3390/medicina62010223</a>
 
 [2] &#42;Jha, A., &#42;Chen, W., Eckmann, M., Stockwell, I., Wang, J., and **Sun, K.** (2025) LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach. 
-Accepted to *IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
+*IEEE ICDM 2025 Workshops Proceedings (IEEE Computer Society Press)*.
 
 [3] **Sun, K.**, Roy, A., Tobin, J. (2024). Artificial Intelligence and Machine Learning:
 Definition of Terms and Current Concepts for Critical Care Research. *Journal of Critical Care*, 82(2024), 154792. 
