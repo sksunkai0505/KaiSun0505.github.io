@@ -30,7 +30,7 @@ Definition of Terms and Current Concepts for Critical Care Research. *Journal of
 <a href="https://doi.org/10.1016/j.jcrc.2024.154792">https://doi.org/10.1016/j.jcrc.2024.154792</a>
 
 [4] **Sun, K.**, Sun, M., Agrawal, D., Dravenstott, R., Rosinia, F., Roy, A. (2023). Equitable Anesthesiologist 
-Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management*, 
+Scheduling under Demand Uncertainty Using Multi-Objective Programming. *Production and Operations Management* (UTD 24), 
 32(11), 3699-3716. 
 <a href="https://onlinelibrary.wiley.com/doi/10.1111/poms.14058">https://doi.org/10.1111/poms.14058</a>
 
