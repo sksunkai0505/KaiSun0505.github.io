@@ -13,9 +13,12 @@ author_profile: true
 
 
 ## Funding
+**University of Maryland Baltimore, Institute for Clinical and Translational Research, Accelerated Translational Incubator Program** 
+(**ICTR-ATIP**) Pilot Grant, 2026.5 - 2027.4\
+&nbsp;&nbsp;&nbsp;&nbsp;• **PI**, awarded for the research project titled, “*AI-Driven, Wellbeing-Aware Scheduling for Emergency and Critical Care Clinicians*”\
 **UMBC Supplement for Undergraduate Research Experiences (SURE)**, Fall 2025 - Spring 2026\
 &nbsp;&nbsp;&nbsp;&nbsp;• **PI**, mentoring undergraduate researcher: Patrina Pun, BS in Information Systems\
-**UMBC Strategic Awards for Research Transitions (START)**, 2025 - 2026\
+**UMBC Strategic Awards for Research Transitions (START)**, 2025 - 2027\
 &nbsp;&nbsp;&nbsp;&nbsp;• **PI**, awarded for the research project titled, “*Machine Learning Guided Clinician Well-being Metrics and Scheduling Tools Combining Electronic Health Record (EHR) Data and Surveys*”\
 **AMTEC (Advanced Manufacturing, Thermal, and Environmental Controls) SyracuseCoE Industry Collaboration Summer Internship Award**\
 &nbsp;&nbsp;&nbsp;&nbsp;• Issued by the SyracuseCoE (New York State's Center of Excellence in Environmental and Energy Systems), Syracuse University, May 2016\
