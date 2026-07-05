@@ -34,6 +34,9 @@ For more details, please see the <a href="https://sksunkai0505.github.io/KaiSun0
 
 Latest News
 -------
+- Both Ph.D. students, **Pavan Raj Ravi** and **Wanqing Chen**, from our group won the **Ph.D. Student Poster Awards** at CoEIT Research Day 2026,  
+for their works, *A Ground-Truth Structural Causal Simulator for Nursing Wellbeing Analytics* and *Predict-Then-Optimize for Large-Scale Anesthesiologist Scheduling with LLM-Enhanced Availability Prediction*, respectively. 
+Congratulations to Raj and Wanqing!
 - **Wanqing Chen**, our Ph.D. student, presented her work, *Virtual Clinic Design Based on Unity 3D and Machine Learning* and
 *LLM-Enhanced, Data-Driven Personalized and Equitable Clinician Scheduling: A Predict-then-Optimize Approach*
 at IEEE Baltimore Technical & Professional Development Colloquium on November 15, 2025 at UMBC, Baltimore, MD, USA.
