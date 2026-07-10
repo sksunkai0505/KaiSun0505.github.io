@@ -20,11 +20,11 @@ at IEEE Baltimore Technical & Professional Development Colloquium on November 15
 at 25th IEEE International Conference on Data Mining (ICDM 2025) Benchmarking, Performance Tuning and Optimization for Big Data Analytics and Big Models (BPOD 2025) workshop on November 12, 2025 in Washington DC, USA.
 - Dr. Kai Sun presented his work, *Solving Process Planning and Scheduling Problems Using the Method of Maximum Weighted Independent Set*, at 2025 INFORMS Annual Meeting 
 on October 29, 2025 in Atlanta, GA, USA.
-- **Anjali Jha**, our master's student, wins **Registration Grant** for attending and presenting her work at 2025 INFORMS Annual Meeting. Congratulations to Anjali!
+- **Anjali Jha**, our master's student, wins **Registration Grant** for attending and presenting our group work at 2025 INFORMS Annual Meeting. Congratulations to All!
 - Our Anesthesiologist Scheduling work received **UTSA Honorable Mention Research Award**.
 This work was one of the two papers nominated by the Dean of UTSA Carlos Alvarez College of Business for the year 2025 award cycle.
-- **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to Anjali!
-- **Anjali Jha**, our master's student, presented her project at COEIT Research Day 2025 on April 11th, 2025.\
+- **Anjali Jha**, our master's student, wins **Student Poster Award** at COEIT Research Day 2025. Congratulations to All!
+- **Anjali Jha**, our master's student, presented our group work at COEIT Research Day 2025 on April 11th, 2025.\
 Titled, “**Data-Driven Clinician Scheduling Under Resource Uncertainty in an Outpatient Clinic: A Predict-Then-Optimize Approach**,” which explores how machine learning, LLMs, and robust optimization can be ensemble-modeled to address real-world needs in healthcare resource planning, i.e., considering resource uncertainty and incorporating providers’ clinical and lifestyle preferences into the work schedules to promote job satisfaction and well-being.
 - **Dr. Kai Sun** presented our work on achieving workload equity in physicians' schedules at the 2024 INFORMS Annual Meeting, held October 20-23 in Seattle, WA. The presentation will take place during the "Decision-Making in Healthcare Systems" session, co-listed with the INFORMS Diversity, Equity, and Inclusion (DEI) Committee.
 - I started as a Tenure-Track Assistant Professor in the Department of Information Systems, within the College of Engineering and Information Technology at UMBC, in Fall 2024.
