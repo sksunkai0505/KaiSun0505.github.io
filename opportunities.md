@@ -18,7 +18,7 @@ and **prepare students to excel in their later careers**.
 **Funded opportunities**, e.g., hourly paid positions in Spring, Fall, and Summer semesters, and GRAs at master's and Ph.D. levels, **are available** subject to 
 specific projects and budgets, student performance and capabilities, etc.
 
-If you are interested, please email your **CV** and **research interests** to <ins>ksun1@umbc.edu</ins>.
+If you are interested, please email your **CV**, **official/unofficial transcripts of all post-secondary schools**, and **research interests** to <ins>ksun1@umbc.edu</ins>.
 
 Current Students
 -------
