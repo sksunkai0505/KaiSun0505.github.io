@@ -41,9 +41,13 @@ Current Students
 
 Alumni
 -------
-**Anjali Jha**, MPS student, Data Science, Fall 2024-Nov 2025\
-&nbsp;&nbsp;&nbsp;&nbsp;• **Registration Grant** for 2025 INFORMS Annual Meeting (declined by the student). \
-&nbsp;&nbsp;&nbsp;&nbsp;• **Student Poster Award** as the presenter of group work at CoEIT Research Day 2025.\
 **Reverny Hsu**, [LinkedIn](https://www.linkedin.com/in/tienyu-hsu/), MS in Statistics and Data Science (UTSA), Fall 2023-Fall 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;• First job placement, **Investment Risk Analyst** at Victory Capital.
+
+
+Other Students Mentored & Achievements as Lab Member
+-------
+**Anjali Jha**, MPS student, Data Science, Aug 2024-Nov 2025\
+&nbsp;&nbsp;&nbsp;&nbsp;• **Registration Grant** for 2025 INFORMS Annual Meeting (declined by the student). \
+&nbsp;&nbsp;&nbsp;&nbsp;• **Student Poster Award** as the presenter of group work at CoEIT Research Day 2025.\
 
