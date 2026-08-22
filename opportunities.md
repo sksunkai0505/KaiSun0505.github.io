@@ -23,7 +23,8 @@ If you are interested, please email your **CV**, **official/unofficial transcrip
 Current Students
 -------
 
-**Ph.D. Students**\
+**Ph.D. Students**
+
 **Xinyue Li**, Ph.D. student, Information Systems, Fall 2026-present\
 **Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.\
@@ -31,7 +32,11 @@ Current Students
 **Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.
 
-**Undergraduate Students**\
+[//]: # (**Master Students**)
+
+
+**Undergraduate Students**
+
 **Patrina Pun**, BS student, Information Systems, Summer 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **CRA-WP Distributed Research Experiences for Undergraduates (DREU)**, Summer 2026.\
 &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **UMBC SURE Award**, Fall 2025 - Spring 2026.\
@@ -45,8 +50,9 @@ Alumni
 &nbsp;&nbsp;&nbsp;&nbsp;• First job placement, **Investment Risk Analyst** at Victory Capital.
 
 
-Other Students Mentored & Achievements as Lab Member
--------
+
+<h3>Other Students Mentored & Achievements as Lab Member</h3>
+
 **Anjali Jha**, MPS student, Data Science, Aug 2024-Nov 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Registration Grant** for 2025 INFORMS Annual Meeting (declined by the student). \
 &nbsp;&nbsp;&nbsp;&nbsp;• **Student Poster Award** as the presenter of group work at CoEIT Research Day 2025.\
