@@ -39,7 +39,7 @@ Current Students
 
 **Patrina Pun**, BS student, Information Systems, Summer 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **CRA-WP Distributed Research Experiences for Undergraduates (DREU)**, Summer 2026.\
-&nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **UMBC SURE Award**, Fall 2025 - Spring 2026.\
+&nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **UMBC SURE Award**, Fall 2025 - Spring 2026.
 
 
 
@@ -53,7 +53,7 @@ Alumni
 
 <h3>Other Students Mentored & Achievements as Lab Member</h3>
 
-**Anjali Jha**, MPS student, Data Science, Aug 2024-Nov 2025\
+**Anjali Jha**, MPS Data Science, Aug 2024-Nov 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Registration Grant** for 2025 INFORMS Annual Meeting (declined by the student). \
 &nbsp;&nbsp;&nbsp;&nbsp;• **Student Poster Award** as the presenter of group work at CoEIT Research Day 2025.\
 
