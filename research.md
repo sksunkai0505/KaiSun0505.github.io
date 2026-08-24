@@ -9,6 +9,7 @@ author_profile: true
 ---
 
 
+
 {% include base_path %}
 
 <H3>RESEARCH INTERESTS</H3>
@@ -25,6 +26,18 @@ The examples of the applications includes:\
 (2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
 <H3>PROJECTS</H3>
+
+
+**Wellbeing-Aware Scheduling for Emergency Medicine and Intensive Care**, at UMBC in collaboration with UMB;
+- Developing a wellbeing-aware scheduling platform that combines electronic health record (EHR) data, clinician schedules, validated surveys, and organizational policies to support sustainable workforce planning.
+- Building clinician-centered knowledge graphs and graph databases to represent clinicians, shifts, clinical activities, teamwork patterns, workload, and wellbeing in a unified and explainable framework.
+- Integrating interpretable machine learning and graph-based models with robust, multi-objective optimization to generate schedules that balance coverage, workload fairness, fatigue risk, clinician wellbeing, and duty-hour requirements.
+
+
+**Machine Learning-Guided Clinician Wellbeing Metrics and Scheduling Tools**, at UMBC in collaboration with UT Health San Antonio and UMB;
+- Developing clinician workload and wellbeing metrics from EHR activity, work schedules, human resources data, and surveys, using the NASA Task Load Index and Mayo Clinic Well-Being Index as validation baselines.
+- Applying interpretable machine learning and causal modeling to identify how clinician characteristics, shift attributes, patient complexity, and recent schedules influence workload, burnout risk, and wellbeing.
+- Developing an open-source predict-then-optimize scheduling tool that incorporates individual preferences, fair workload distribution, operational efficiency, and uncertainty into multi-objective shift assignments.
 
 
 **Optimal Scheduling of Physicians and Certified Registered Nurses**, at
