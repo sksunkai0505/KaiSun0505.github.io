@@ -34,6 +34,7 @@ For more details, please see the <a href="https://sksunkai0505.github.io/KaiSun0
 
 Latest News
 -------
+- We are pleased to welcome **Xinyue Li**, a new Ph.D. student, to our group. Welcome, Xinyue!
 - Both Ph.D. students, **Pavan Raj Ravi** and **Wanqing Chen**, from our group won the **Ph.D. Student Poster Awards** at CoEIT Research Day 2026,  
 for their works, *A Ground-Truth Structural Causal Simulator for Nursing Wellbeing Analytics* and *Predict-Then-Optimize for Large-Scale Anesthesiologist Scheduling with LLM-Enhanced Availability Prediction*, respectively. 
 Congratulations to Raj and Wanqing!

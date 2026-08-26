@@ -10,6 +10,7 @@ author_profile: true
 
 
 {% include base_path %}
+- We are pleased to welcome **Xinyue Li**, a new Ph.D. student, to our group. Welcome, Xinyue!
 - Both Ph.D. students, **Pavan Raj Ravi** and **Wanqing Chen**, from our group won the **Ph.D. Student Poster Awards** at CoEIT Research Day 2026, for their works, *A Ground-Truth Structural Causal Simulator for Nursing Wellbeing Analytics* and *Predict-Then-Optimize for Large-Scale Anesthesiologist Scheduling with LLM-Enhanced Availability Prediction*, respectively. 
 Congratulations to Raj and Wanqing!
 - **Wanqing Chen**, our Ph.D. student, presented her work, *Virtual Clinic Design Based on Unity 3D and Machine Learning* and
