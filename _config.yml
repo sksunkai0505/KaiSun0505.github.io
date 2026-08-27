@@ -82,8 +82,9 @@ analytics:
 author:
   name             : "Kai Sun, Ph.D."
   avatar           : "KaiSun_profile4.jpg"
-  bio              : "Assistant Professor of Information Systems, UMBC | Adjunct Assistant Professor, Long School of Medicine, UT Health San Antonio"
+  bio              : "Assistant Professor of Information Systems, UMBC"
   affiliations:
+    - "Adjunct Assistant Professor, Long School of Medicine, UT Health San Antonio"
     - "Faculty Affiliate, UMBC Center for Artificial Intelligence"
     - "Faculty Affiliate, UMBC Public Health Research Center"
   location         : "ITE Building 401, UMBC"
