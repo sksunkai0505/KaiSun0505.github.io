@@ -16,15 +16,14 @@ author_profile: true
 My primary research interests center around **optimal and equitable resource planning in service systems**
 leveraging large-scale datasets
 via the development and application of\
-(a) **Optimization under uncertainty**\
-(b) **Multi-objective optimization**\
-(c) **Graph-based models and algorithms**\
+(a) **Optimization under uncertainty** & **Multi-objective optimization**\
+(b) **Graph-based models and algorithms**\
+(c) **Ontology, Information Modeling and Knowledge Graphs**\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
 (1) In **healthcare**: operating rooms and intensive care units management, data-driven patient and clinician scheduling;\
-(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
-
+(2) In **product development and manufacturing**: Biopharmaceutical process development and manufacturing, process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 <H3>PROJECTS</H3>
 
 

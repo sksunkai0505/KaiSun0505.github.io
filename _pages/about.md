@@ -16,14 +16,14 @@ I am also an Adjunct Assistant Professor (researcher/consultant in healthcare op
 
 My primary research interests center around **optimal and equitable resource planning in service systems**
 via:\
-(a) **Optimization under uncertainty**\
-(b) **Multi-objective optimization**\
-(c) **Graph-based models and algorithms**\
+(a) **Optimization under uncertainty** & **Multi-objective optimization**\
+(b) **Graph-based models and algorithms**\
+(c) **Ontology, Information Modeling and Knowledge Graphs**\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
 (1) In **healthcare**: clinician wellbeing, operating rooms and intensive care units management, data-driven patient and provider scheduling;\
-(2) In **product development and manufacturing**: process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
+(2) In **product development and manufacturing**: Biopharmaceutical process development and manufacturing, process planning and scheduling, product lifecycle management (PLM) systems, product-service manufacturing systems.
 
 Before joining UMBC, I was a Postdoctoral Fellow in Department of Management Science and Statistics housed in Alvarez College of Business at The University of Texas at San Antonio (UTSA).
 I received Ph.D. and M.S. in Mechanical and Aerospace Engineering with a focus on **Operations Research** from Syracuse University in 2020 and 2015, respectively.
