@@ -16,9 +16,9 @@ I am also an Adjunct Assistant Professor (researcher/consultant in healthcare op
 
 My primary research interests center around **optimal and equitable resource planning in service systems**
 via:\
-(a) **Optimization under uncertainty** & **Multi-objective optimization**\
+(a) **Optimization under uncertainty** & **multi-objective optimization**\
 (b) **Graph-based models and algorithms**\
-(c) **Ontology, Information Modeling and Knowledge Graphs**\
+(c) **Ontology, information modeling and knowledge graphs**\
 (d) **Data analytics and machine learning**
 
 The examples of the applications includes:\
