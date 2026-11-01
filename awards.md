@@ -13,6 +13,8 @@ author_profile: true
 
 
 ## Funding
+**National Institute of Standards and Technology (NIST)**\
+&nbsp;&nbsp;&nbsp;&nbsp;• *Data Interoperability and Traceability Across Biopharmaceutical Process Development and Manufacturing*\
 **University of Maryland Baltimore (**UMB**), Institute for Clinical and Translational Research, Accelerated Translational Incubator Program** 
 (**ICTR-ATIP**) Pilot Grant, 2026.5 - 2027.4\
 &nbsp;&nbsp;&nbsp;&nbsp;• **PI**, awarded for the research project titled, “*AI-Driven, Wellbeing-Aware Scheduling for Emergency and Critical Care Clinicians*”\
