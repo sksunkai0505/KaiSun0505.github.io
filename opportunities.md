@@ -53,8 +53,7 @@ Alumni
 
 <h3>Other Students Mentored & Achievements as Lab Member</h3>
 
-**Ommo Clark**, Ph.D. in Information Systems, June-August 2026
-
+**Ommo Clark**, Ph.D. in Information Systems, June-August 2026\
 **Anjali Jha**, MPS Data Science, Aug 2024-Nov 2025\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Registration Grant** for 2025 INFORMS Annual Meeting (declined by the student). \
 &nbsp;&nbsp;&nbsp;&nbsp;• **Student Poster Award** as the presenter of group work at CoEIT Research Day 2025.
