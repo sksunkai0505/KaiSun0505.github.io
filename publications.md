@@ -20,7 +20,7 @@ asterisk (*) denotes my advisees.
 **Accepted/Printed**
 
 [1] &#42;Clark, O., Ahmed, Z., &#42;Li, X., Joshi, K. P., Trinkoff, A., & **Sun, K.** (2026). A Caregiver-Centered Knowledge Graph for Clinician Well-being Risk Assessment.
-Accepted at the *2026 IEEE International Conference on Big Data (IEEE BigData 2026)* (ICORE B).
+Accepted at the *2026 IEEE International Conference on Big Data (IEEE BigData 2026)* as regular paper (ICORE B).
 
 [2] Guan, T., Yu, Z., Bhosle, P., Li, C., **Sun, K.**, & Rao, M. B. (2026). Why Our Youth Vape?—A Trend Analysis Based on Cross-Sectional
 Annual Surveys of Middle and High School Students in the U.S. *Medicina* (IF 2.4, CiteScore Q1), 62(1), 223. <a href="https://doi.org/10.3390/medicina62010223">https://doi.org/10.3390/medicina62010223</a>
