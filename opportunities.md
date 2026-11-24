@@ -46,6 +46,8 @@ Current Students
 
 Alumni
 -------
+<p><img src="{{ '/images/reverny-hsu.jpg' | relative_url }}" alt="Reverny Hsu" width="160" height="225" loading="lazy"></p>
+
 **Reverny Hsu**, [LinkedIn](https://www.linkedin.com/in/tienyu-hsu/), MS in Statistics and Data Science (UTSA), Fall 2023-Fall 2024\
 &nbsp;&nbsp;&nbsp;&nbsp;• First job placement, **Investment Risk Analyst** at Victory Capital.
 
