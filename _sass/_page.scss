@@ -11,18 +11,49 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
-    max-width: $x-large;
+  @include breakpoint($large) {
+    $width-scale: 1.2;
+    $sidebar-width: span(2 of 12) * $width-scale;
+    $sidebar-gutter: gutter(12);
+    $content-inset: span(0.5 of 12 wide);
+    $archive-content-width: span(10 of 12) - $content-inset;
+    $page-content-width: $archive-content-width - span(2 of 12 wide);
+    $archive-width: $archive-content-width * $width-scale + $content-inset;
+    $page-width: $page-content-width * $width-scale + $content-inset;
+    $original-grid-max: calc(#{$x-large} - 2rem);
+    $grid-scale: ($sidebar-width + $sidebar-gutter + $archive-width) / 100%;
+
+    // Base the column sizes on the original grid so widening the wrapper does not widen the sidebar again.
+    --original-grid-width: min(100%, #{$original-grid-max});
+    --sidebar-width: calc(var(--original-grid-width) * #{$sidebar-width / 100%});
+    --sidebar-gutter: calc(var(--original-grid-width) * #{$sidebar-gutter / 100%});
+    --content-inset: calc(var(--original-grid-width) * #{$content-inset / 100%});
+    max-width: calc(#{$original-grid-max} * #{$grid-scale} + 2rem);
+
+    > .page,
+    > .archive {
+      float: left;
+      padding-left: var(--content-inset);
+    }
+
+    > .page {
+      width: calc(var(--original-grid-width) * #{$page-width / 100%});
+    }
+
+    > .archive {
+      --archive-content-width: calc(var(--original-grid-width) * #{$archive-content-width * $width-scale / 100%});
+      width: calc(var(--archive-content-width) + var(--content-inset));
+    }
+
+    > .sidebar ~ .archive {
+      --available-width: calc(100% - var(--sidebar-width) - var(--sidebar-gutter));
+      max-width: var(--available-width);
+      padding-left: clamp(0px, calc(var(--available-width) - var(--archive-content-width)), var(--content-inset));
+    }
   }
 }
 
 .page {
-  @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
-  }
-
   .page__inner-wrap {
     @include full();
 
