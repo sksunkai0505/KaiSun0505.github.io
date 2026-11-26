@@ -25,19 +25,26 @@ Current Students
 
 **Ph.D. Students**
 
+
+<p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
+
+**Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present\
+&nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.\
+
 <p><img src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="240" loading="lazy"></p>
 
 **Xinyue Li**, Ph.D. student, Information Systems, March 2026-present\
 **Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.\
 &nbsp;&nbsp;&nbsp;&nbsp;• **IS Department Travel Award** for attending and presenting at 2025 ICDM.\
-**Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present\
-&nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.
+
 
 [//]: # (**Master Students**)
 
 
 **Undergraduate Students**
+
+<p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
 
 **Patrina Pun**, BS student, Information Systems, Summer 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **CRA-WP Distributed Research Experiences for Undergraduates (DREU)**, Summer 2026.\
