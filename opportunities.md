@@ -35,7 +35,7 @@ Current Students
 **Xinyue Li**, Ph.D. student, Information Systems, March 2026-present
 <p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
 
-**Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present (currently on leave due to VISA delay)\
+**Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.\
 &nbsp;&nbsp;&nbsp;&nbsp;• **IS Department Travel Award** for attending and presenting at 2025 ICDM.
 
