@@ -101,6 +101,12 @@
       max-width: 30%;
     }
 
+    > .student-profile__photo--cropped {
+      aspect-ratio: 1;
+      object-fit: cover;
+      object-position: center 72%;
+    }
+
     > p {
       min-width: 0;
       margin: 0;
