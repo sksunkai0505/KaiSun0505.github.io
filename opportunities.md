@@ -25,19 +25,27 @@ Current Students
 
 **Ph.D. Students**
 
+<div class="student-profile">
+  <img src="../images/profile.png" alt="" width="160" height="160" loading="lazy">
+  <p>
+    <strong>Pavan Raj Ravi</strong>, Ph.D. student, Information Systems, Spring 2025-present<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• <strong>Ph.D. Student Poster Award</strong> at CoEIT Research Day 2026.
+  </p>
+</div>
 
-<p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
+<div class="student-profile">
+  <img src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="240" loading="lazy">
+  <p><strong>Xinyue Li</strong>, Ph.D. student, Information Systems, March 2026-present</p>
+</div>
 
-**Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present\
-&nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.
-<p><img src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="240" loading="lazy"></p>
-
-**Xinyue Li**, Ph.D. student, Information Systems, March 2026-present
-<p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
-
-**Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
-&nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.\
-&nbsp;&nbsp;&nbsp;&nbsp;• **IS Department Travel Award** for attending and presenting at 2025 ICDM.
+<div class="student-profile">
+  <img src="../images/profile.png" alt="" width="160" height="160" loading="lazy">
+  <p>
+    <strong>Wanqing Chen</strong>, Ph.D. student, Information Systems, Fall 2025-present<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• <strong>Ph.D. Student Poster Award</strong> at CoEIT Research Day 2026.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• <strong>IS Department Travel Award</strong> for attending and presenting at 2025 ICDM.
+  </p>
+</div>
 
 
 [//]: # (**Master Students**)
@@ -45,21 +53,28 @@ Current Students
 
 **Undergraduate Students**
 
-<p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
-
-**Patrina Pun**, BS student, Information Systems, Summer 2025-present\
-&nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **CRA-WP Distributed Research Experiences for Undergraduates (DREU)**, Summer 2026.\
-&nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the **UMBC SURE Award**, Fall 2025 - Spring 2026.
+<div class="student-profile">
+  <img src="../images/profile.png" alt="" width="160" height="160" loading="lazy">
+  <p>
+    <strong>Patrina Pun</strong>, BS student, Information Systems, Summer 2025-present<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the <strong>CRA-WP Distributed Research Experiences for Undergraduates (DREU)</strong>, Summer 2026.<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• Recipient of the <strong>UMBC SURE Award</strong>, Fall 2025 - Spring 2026.
+  </p>
+</div>
 
 
 
 
 Alumni
 -------
-<p><img src="../images/reverny-hsu.jpg" alt="Reverny Hsu" width="160" height="225" loading="lazy"></p>
 
-**Reverny Hsu**, [LinkedIn](https://www.linkedin.com/in/tienyu-hsu/), MS in Statistics and Data Science (UTSA), Fall 2023-Fall 2024\
-&nbsp;&nbsp;&nbsp;&nbsp;• First job placement, **Investment Risk Analyst** at Victory Capital.
+<div class="student-profile">
+  <img src="../images/reverny-hsu.jpg" alt="Reverny Hsu" width="160" height="225" loading="lazy">
+  <p>
+    <strong>Reverny Hsu</strong>, <a href="https://www.linkedin.com/in/tienyu-hsu/">LinkedIn</a>, MS in Statistics and Data Science (UTSA), Fall 2023-Fall 2024<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;• First job placement, <strong>Investment Risk Analyst</strong> at Victory Capital.
+  </p>
+</div>
 
 
 

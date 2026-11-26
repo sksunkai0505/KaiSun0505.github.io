@@ -90,6 +90,23 @@
     font-size: 1em;
   }
 
+  .student-profile {
+    display: flex;
+    align-items: flex-start;
+    gap: 1em;
+    margin-bottom: $indent-var;
+
+    > img {
+      flex-shrink: 0;
+      max-width: 30%;
+    }
+
+    > p {
+      min-width: 0;
+      margin: 0;
+    }
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
