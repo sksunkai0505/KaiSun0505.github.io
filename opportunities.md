@@ -30,11 +30,9 @@ Current Students
 
 **Pavan Raj Ravi**, Ph.D. student, Information Systems, Spring 2025-present\
 &nbsp;&nbsp;&nbsp;&nbsp;• **Ph.D. Student Poster Award** at CoEIT Research Day 2026.
-
 <p><img src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="240" loading="lazy"></p>
 
 **Xinyue Li**, Ph.D. student, Information Systems, March 2026-present
-
 <p><img src="../images/profile.png" alt="" width="160" height="160" loading="lazy"></p>
 
 **Wanqing Chen**, Ph.D. student, Information Systems, Fall 2025-present\
