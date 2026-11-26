@@ -34,7 +34,7 @@ Current Students
 </div>
 
 <div class="student-profile">
-  <img src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="240" loading="lazy">
+  <img src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="160" loading="lazy">
   <p><strong>Xinyue Li</strong>, Ph.D. student, Information Systems, March 2026-present</p>
 </div>
 
