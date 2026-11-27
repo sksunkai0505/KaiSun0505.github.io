@@ -34,7 +34,7 @@ Current Students
 </div>
 
 <div class="student-profile">
-  <img class="student-profile__photo--cropped" src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="160" loading="lazy">
+  <img class="student-profile__photo--cropped" src="../images/xinyue-li.jpg" alt="Xinyue Li" width="160" height="160" loading="lazy" style="object-position: center 72%">
   <p><strong>Xinyue Li</strong>, Ph.D. student, Information Systems, March 2026-present</p>
 </div>
 
@@ -69,7 +69,7 @@ Alumni
 -------
 
 <div class="student-profile">
-  <img src="../images/reverny-hsu.jpg" alt="Reverny Hsu" width="160" height="225" loading="lazy">
+  <img class="student-profile__photo--cropped" src="../images/reverny-hsu.jpg" alt="Reverny Hsu" width="160" height="160" loading="lazy">
   <p>
     <strong>Reverny Hsu</strong>, <a href="https://www.linkedin.com/in/tienyu-hsu/">LinkedIn</a>, MS in Statistics and Data Science (UTSA), Fall 2023-Fall 2024<br>
     &nbsp;&nbsp;&nbsp;&nbsp;• First job placement, <strong>Investment Risk Analyst</strong> at Victory Capital.
