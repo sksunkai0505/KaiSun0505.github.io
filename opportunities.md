@@ -26,7 +26,7 @@ Current Students
 **Ph.D. Students**
 
 <div class="student-profile">
-  <img src="../images/profile.png" alt="" width="160" height="160" loading="lazy">
+  <img class="student-profile__photo--cropped" src="../images/pavan-raj-ravi.jpg" alt="Pavan Raj Ravi" width="160" height="160" loading="lazy" style="object-position: center bottom">
   <p>
     <strong>Pavan Raj Ravi</strong>, Ph.D. student, Information Systems, Spring 2025-present<br>
     &nbsp;&nbsp;&nbsp;&nbsp;• <strong>Ph.D. Student Poster Award</strong> at CoEIT Research Day 2026.
